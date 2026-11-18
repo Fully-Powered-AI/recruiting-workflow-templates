@@ -275,4 +275,4 @@ lead approve it.
 
 ## Version notes
 
-- 0.1.0, 10 November 2026. Written by Fully Powered AI from its own published map of the work, with no third-party text. Editorially reviewed. Tried once on its invented example in Claude on 10 November 2026, by a model that did not write the first version but then edited it, with the record rewritten for the edited version; the run was partly exposed to the example's output. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+- 0.1.0, 10 November 2026. Written by FullyPowered AI from its own published map of the work, with no third-party text. Editorially reviewed. Tried once on its invented example in Claude on 10 November 2026, by a model that did not write the first version but then edited it, with the record rewritten for the edited version; the run was partly exposed to the example's output. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.

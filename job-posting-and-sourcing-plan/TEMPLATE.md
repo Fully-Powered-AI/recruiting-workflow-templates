@@ -60,7 +60,7 @@ The assistant works from the documents the person supplies. It needs no connecti
 
 ### Default expected signal by role family
 
-Expected signal is how likely a channel is to bring people who meet the must-haves, for the money and team time it takes. These are Fully Powered AI's starting levels, to be replaced by the company's own record as it builds up.
+Expected signal is how likely a channel is to bring people who meet the must-haves, for the money and team time it takes. These are FullyPowered AI's starting levels, to be replaced by the company's own record as it builds up.
 
 - **Specialist professional** (finance, IT, engineering, design, data, operations analysis). High: referral, community, direct-outreach, specialist-board. Medium: past-applicants, own-channels, agency. Low: general-board, local.
 - **Sales and client-facing.** High: referral, community. Medium: specialist-board, general-board, direct-outreach, past-applicants, own-channels, agency. Low: local.
@@ -315,4 +315,4 @@ its spend.
 
 ## Version notes
 
-- 0.1.0, 10 November 2026. Written by Fully Powered AI. Editorially reviewed. Tried on its invented example in Claude on 10 November 2026; the record of the latest run is published with it, says plainly that the run was not blind to the published example output, and lists the ambiguities it met. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+- 0.1.0, 10 November 2026. Written by FullyPowered AI. Editorially reviewed. Tried on its invented example in Claude on 10 November 2026; the record of the latest run is published with it, says plainly that the run was not blind to the published example output, and lists the ambiguities it met. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.

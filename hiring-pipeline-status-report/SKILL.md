@@ -4,13 +4,13 @@ description: "Prepare the weekly one-page status report on every open role from 
 license: "MIT"
 metadata:
   version: "0.1.0"
-  publisher: "Fully Powered AI"
+  publisher: "FullyPowered AI"
   template: "Hiring pipeline status report"
 ---
 
 # Hiring pipeline status report
 
-This is the technical file for a Fully Powered workflow template. It carries the instructions an AI product follows. The complete template, with roles, inputs, exceptions, the reviewer checklist, acceptance tests and what to customize, is in [TEMPLATE.md](TEMPLATE.md). A worked example with invented data is in [EXAMPLE.md](EXAMPLE.md).
+This is the technical file for a FullyPowered workflow template. It carries the instructions an AI product follows. The complete template, with roles, inputs, exceptions, the reviewer checklist, acceptance tests and what to customize, is in [TEMPLATE.md](TEMPLATE.md). A worked example with invented data is in [EXAMPLE.md](EXAMPLE.md).
 
 ## Instructions
 

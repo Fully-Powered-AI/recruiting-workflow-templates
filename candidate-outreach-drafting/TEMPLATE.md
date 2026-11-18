@@ -339,4 +339,4 @@ read it and sends it.
 
 ## Version notes
 
-- 0.1.0, 10 November 2026. Written by Fully Powered AI, drawing on one openly licensed package credited in its sources. Editorially reviewed. Tried on its invented example on 10 November 2026 in two runs: the instructions were revised after the first, and the second is the run recorded. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+- 0.1.0, 10 November 2026. Written by FullyPowered AI, drawing on one openly licensed package credited in its sources. Editorially reviewed. Tried on its invented example on 10 November 2026 in two runs: the instructions were revised after the first, and the second is the run recorded. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.

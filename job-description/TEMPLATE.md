@@ -280,4 +280,4 @@ people lead approve the description before a person posts it.
 
 ## Version notes
 
-- 0.1.0, 9 November 2026. Written by Fully Powered AI; the methods it drew on are credited in the sources. Editorially reviewed. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+- 0.1.0, 9 November 2026. Written by FullyPowered AI; the methods it drew on are credited in the sources. Editorially reviewed. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.

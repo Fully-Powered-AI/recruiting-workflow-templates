@@ -23,7 +23,7 @@
     "hiring-pipeline-status-report"
   ],
   "evidence": {
-    "written_by": "Fully Powered AI",
+    "written_by": "FullyPowered AI",
     "source_and_rights_reviewed": true,
     "editorially_reviewed": "2026-11-10",
     "package_format_valid": true,
@@ -39,7 +39,7 @@
   "sources": [
     {
       "kind": "own",
-      "title": "Fully Powered AI's own published map of recruiting work, and its own method for reviewing an interview process after a round: fixed input columns, rules for judging a note usable, coverage and rubric-use checks, stop conditions, tests and a worked example."
+      "title": "FullyPowered AI's own published map of recruiting work, and its own method for reviewing an interview process after a round: fixed input columns, rules for judging a note usable, coverage and rubric-use checks, stop conditions, tests and a worked example."
     }
   ]
 }

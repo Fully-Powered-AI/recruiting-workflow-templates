@@ -49,11 +49,11 @@ The list of topics never raised is your people lead's, kept current with your ad
 
 ## What has been checked
 
-Fully Powered AI wrote this workflow template, drawing on one openly licensed method that is credited in its sources. It was editorially reviewed on 9 November 2026. It was tried on its invented example in Claude on 9 November 2026, in three runs; the record of the third is published with it, with what was changed after the earlier two. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template, drawing on one openly licensed method that is credited in its sources. It was editorially reviewed on 9 November 2026. It was tried on its invented example in Claude on 9 November 2026, in three runs; the record of the third is published with it, with what was changed after the earlier two. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on roles you have already filled, where the hiring manager knows what the work needed, plus hard cases written in advance: notes with a question about family, a referred candidate who wants to skip a stage, a pasted CV, a request to rank the finalists. The hiring manager checks every criterion against the description, and the people lead checks that nothing on the topics list survived. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
 
-- Written by Fully Powered AI.
+- Written by FullyPowered AI.
 - Sources and rights reviewed.
 - Editorially reviewed on 9 November 2026.
 - Package format checked by script on every release.
@@ -84,4 +84,4 @@ Testing in your environment means running it on roles you have already filled, w
 
 ## Make it yours
 
-This is the starting version. Fully Powered AI adapts workflow templates to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).

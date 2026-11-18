@@ -326,6 +326,6 @@ what the law allows a referee to be asked.
 
 ## Version notes
 
-- 0.1.0, 10 November 2026. Written by Fully Powered AI from its own published map of recruiting work. Not yet tested in a client environment.
+- 0.1.0, 10 November 2026. Written by FullyPowered AI from its own published map of recruiting work. Not yet tested in a client environment.
 - 0.1.0, edited 10 November 2026 after the first trial run on the invented example, which was not repeated: step 11 and the instruction block now say to name the defaults used under Sources; step 6 and the block say "fewest eligible referees"; the block states the stop when no open point is left after screening and the fallback to the short list when the topics list is missing; the mention of a separate role-definition workflow template was removed. The example's wording was also tidied (a main question that no longer assumes who kept the schedule, and "or shared" removed).
 - 0.1.0, edited 10 November 2026 after independent review: the screening step says the Removed line is the flag for a topic never raised; the order of the groups of open questions and the source of the recruiter role in the opening are stated; a note on the "was it typical" follow-up and on "the candidate" in Listen for; a What to customize line on wording for a referee who was part of the event; the instruction block now carries the one-candidate check and "period not stated". Small edits; not run again.
