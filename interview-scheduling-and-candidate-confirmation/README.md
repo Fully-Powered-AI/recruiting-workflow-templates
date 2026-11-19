@@ -4,6 +4,8 @@ For candidates your team has already chosen to interview, the recruiting coordin
 
 *Workflow template · Recruiting and hiring · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/interview-scheduling-and-candidate-confirmation/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/interview-scheduling-and-candidate-confirmation/?from=gh-interview-scheduling-and-candidate-co)
+
 ## The outcome
 
 Scheduling stops being days of back-and-forth email. Every candidate's offered times sit beside the interviewers' calendars in one time zone, with each candidate's own time shown next to it, so a slot that works at 10:00 in New York is plainly also 15:00 in London. Each candidate gets one proposed time, no interviewer is booked twice, and the gaps between interviews are kept.

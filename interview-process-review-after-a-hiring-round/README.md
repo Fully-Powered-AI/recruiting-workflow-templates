@@ -4,6 +4,8 @@ After a hiring round closes, the recruiting lead gets a review of the interview 
 
 *Workflow template · Recruiting and hiring · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/interview-process-review-after-a-hiring-round/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/interview-process-review-after-a-hiring-round/?from=gh-interview-process-review-after-a-hiri)
+
 ## The outcome
 
 The next search starts from what this round taught you instead of from the same interview plan. You see which questions gave interviewers nothing they could write down, which questions were asked twice, which parts of the agreed rubric were never put to anyone, and where interviewers used the rubric differently from one another.

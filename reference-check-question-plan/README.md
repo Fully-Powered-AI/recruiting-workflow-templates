@@ -4,6 +4,8 @@ After the interviews, the recruiter gets short reference calls aimed only at wha
 
 *Workflow template · Recruiting and hiring · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/reference-check-question-plan/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/reference-check-question-plan/?from=gh-reference-check-question-plan)
+
 ## The outcome
 
 Reference calls stop being a friendly chat that confirms what everyone already thought. Each call asks about the few things the interviews left open, such as whether the candidate really kept that schedule or only helped with it, and asks the people who could have seen it at first hand. Every referee asked about the same point hears the same words, and every answer is written down as the referee said it.

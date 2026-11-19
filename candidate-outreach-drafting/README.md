@@ -4,6 +4,8 @@ For each person a recruiter or founder has already chosen to approach about an a
 
 *Workflow template · Recruiting and hiring · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/candidate-outreach-drafting/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/candidate-outreach-drafting/?from=gh-candidate-outreach-drafting)
+
 ## The outcome
 
 Every person you have decided to write to gets a message that reads as if you wrote it for them, because the one personal line in it comes from something they did in their public work, which you found and named. Two follow-ups are ready behind it, dated in your working days, each adding one new fact about the role so nobody receives the same message twice.

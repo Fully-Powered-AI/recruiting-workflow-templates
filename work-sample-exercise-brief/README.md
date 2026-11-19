@@ -4,6 +4,8 @@ For one approved role, the hiring manager gets a practical exercise: a bounded t
 
 *Workflow template · Recruiting and hiring · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/work-sample-exercise-brief/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/work-sample-exercise-brief/?from=gh-recruiting-work-sample-exercise-brief)
+
 ## The outcome
 
 Every candidate for the role does the same small piece of the real work, with the same materials, the same time and the same help. The hiring manager knows why that task was chosen, which of the agreed criteria it can show and which it cannot, and what the panel will point to in a finished piece of work. Candidates know before they start how long it should take, what they will hand in, what the panel looks at and what the company will not do with their work.

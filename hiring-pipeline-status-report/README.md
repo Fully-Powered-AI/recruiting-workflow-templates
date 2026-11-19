@@ -4,6 +4,8 @@ Each week your people lead or founder sees every open role on one page: applicat
 
 *Workflow template · Recruiting and hiring · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/hiring-pipeline-status-report/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/hiring-pipeline-status-report/?from=gh-hiring-pipeline-status-report)
+
 ## The outcome
 
 Hiring stops being a feeling and becomes a page you can read in five minutes. Every open role sits in the same shape: how many people are at each stage, how long the role has been open against the target you set, and whether anyone has been left waiting longer than a stage should take. Roles running late, and roles with almost nobody at the interview stages, are named before they turn into a missed quarter.

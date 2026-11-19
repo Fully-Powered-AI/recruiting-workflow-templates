@@ -4,6 +4,8 @@ A hiring manager’s rough notes become a job description the right people want 
 
 *Workflow template · Recruiting and hiring · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/job-description/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/job-description/?from=gh-recruiting-job-description)
+
 ## The outcome
 
 The people you most want to hear from read the first lines and recognize a real job: why it exists, what they would do all day, and what a good first year looks like. The list of must-haves is short enough to believe, because each one is tied to a line of the work. A manager with a team to run gets there in an afternoon, with last year’s recycled posting left in the drawer. That is how a growing company hires like one ten times its size.

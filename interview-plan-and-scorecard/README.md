@@ -4,6 +4,8 @@ Before the first interview, the hiring manager and every interviewer share one p
 
 *Workflow template · Recruiting and hiring · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/interview-plan-and-scorecard/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/interview-plan-and-scorecard/?from=gh-interview-plan-and-scorecard)
+
 ## The outcome
 
 Every candidate meets the same interview. The criteria come straight from the job description you already approved, each stage knows which of them it covers, and the questions ask about work people have actually done, so the people deciding can judge each answer on evidence instead of on who interviewed best.

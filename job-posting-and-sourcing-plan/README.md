@@ -4,6 +4,8 @@ For one approved role, the hiring manager gets a plan for where to post and wher
 
 *Workflow template · Recruiting and hiring · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/job-posting-and-sourcing-plan/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/job-posting-and-sourcing-plan/?from=gh-job-posting-and-sourcing-plan)
+
 ## The outcome
 
 The role goes out to the few places most likely to bring people who can do the work, instead of to every board at once. Each channel you use gets an expected signal for this kind of role: from your own counts where you keep them, and from a starting table by role family where you do not. The plan takes channels in that order until the budget, the team's hours or your weekly spending limit says stop, and it shows what each week costs, what is left, and which paid posts run out before the search ends.
