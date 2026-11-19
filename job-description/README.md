@@ -8,7 +8,7 @@ Turn a hiring manager's rough notes into a job description with only real must-h
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · Recruiting and hiring · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/job-description/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=recruiting-job-description&from=gh-recruiting-job-description)*
@@ -37,7 +37,7 @@ One job description in a fixed order: why the role exists, the work, what succes
 
 Review notes come with it, for the two people who approve. They list every requirement that was moved or reworded and why, every phrase that was flagged, the open questions for each person, and where each section came from. Where an input was missing there is a marked gap, never a guess. The status line reads “Draft for approval. Not posted.”
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -65,13 +65,13 @@ Testing in your environment means running it on roles you have already filled, w
 - Sources and rights reviewed.
 - Editorially reviewed on 9 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 9 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 9 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.

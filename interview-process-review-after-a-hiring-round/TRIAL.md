@@ -4,7 +4,7 @@
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-10
 
-The inputs were the invented example in `public/example.md` (the settings, rubric, interview plan, panel feedback and process issues note). No client data was used. The run followed the instruction block and the output format in `member/template.md`. The run was made without first reading the example's output; the two were compared afterwards. The first run was made once and the output below is as produced. It was followed by changes to the template and a check of the revised version, recorded at the end of this file.
+The inputs were the example in `public/example.md` (the settings, rubric, interview plan, panel feedback and process issues note). No client data was used. The run followed the instruction block and the output format in `member/template.md`. The run was made without first reading the example's output; the two were compared afterwards. The first run was made once and the output below is as produced. It was followed by changes to the template and a check of the revised version, recorded at the end of this file.
 
 ## What came out
 
@@ -115,7 +115,7 @@ An independent review of the template found small problems. The first run's outp
 - Section 4 now ends with a caution: a gap may rest on different questions and evidence, and an interview with one interviewer is identified by its code.
 - The rubric may carry an optional `level_descriptions` column; the review never writes level descriptions.
 
-This second check is not an independent run. It was made by the session that revised the template, with the first run and the example in view. It re-read the revised instruction block against the revised output format, and recomputed every count in the review below from the 24 feedback rows: 24 rows read, 22 asked, 2 not asked, 12 usable and 10 not usable, four flagged pairs, 2 of 5 spread comparisons. The review below is the revised example's output; the data is invented and no client data was used.
+This second check is not an independent run. It was made by the session that revised the template, with the first run and the example in view. It re-read the revised instruction block against the revised output format, and recomputed every count in the review below from the 24 feedback rows: 24 rows read, 22 asked, 2 not asked, 12 usable and 10 not usable, four flagged pairs, 2 of 5 spread comparisons. The review below is the revised example's output; the data is illustrative and no client data was used.
 
 ```
 INTERVIEW PROCESS REVIEW: Customer Operations Manager, round closed 6 November 2026

@@ -193,7 +193,7 @@ Drafts for [sender]. Nothing has been sent or scheduled, no one has been looked 
 
 ## Acceptance tests
 
-Proposed tests. Test 1 has the same shape as the invented example, which was tried on 10 November 2026; the other tests have not been run.
+Proposed tests. Test 1 has the same shape as the example, which was tried on 10 November 2026; the other tests have not been run.
 
 1. **Complete inputs, first run.** Five people, one on the do-not-contact list, one with a `not now` in the log. Expected: three people drafted with three dated messages each; the other two under Not drafted with the right status; a reply log line for all five.
 2. **Header mismatch.** The approach list says `email` instead of `contact`. Expected: stops and asks; drafts nothing.
@@ -339,4 +339,4 @@ read it and sends it.
 
 ## Version notes
 
-- 0.1.0, 10 November 2026. Written by FullyPowered AI, drawing on one openly licensed package credited in its sources. Editorially reviewed. Tried on its invented example on 10 November 2026 in two runs: the instructions were revised after the first, and the second is the run recorded. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+- 0.1.0, 10 November 2026. Written by FullyPowered AI, drawing on one openly licensed package credited in its sources. Editorially reviewed. Tried on its example on 10 November 2026 in two runs: the instructions were revised after the first, and the second is the run recorded. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.

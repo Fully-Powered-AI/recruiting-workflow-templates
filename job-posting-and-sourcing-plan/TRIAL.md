@@ -1,10 +1,10 @@
-# Job posting and sourcing plan: a trial on the invented example
+# Job posting and sourcing plan: a trial on the example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Opus 5.5 (model ID claude-opus-5-5)
 - **Date:** 2026-11-10
 
-The inputs for this run are the invented example in `public/example.md` (the role brief, the channel list, the channel record, and the budget, time and settings). No client data was used.
+The inputs for this run are the example in `public/example.md` (the role brief, the channel list, the channel record, and the budget, time and settings). No client data was used.
 
 This record replaces the record of an earlier run on the same day, by a different model, which reached the same figures, ranks, weeks and decisions as the published example and listed several places where the instructions were ambiguous. The template was then edited to settle most of them: a channel moved later by the weekly cap is now marked as such; the cap check now counts the channels already in the plan and later monthly charges; a channel that starts in the review week is no longer listed at the review for spend without a first interview; only fees of channels in the plan are listed as payable on a hire; and the instruction block now carries the rules for missing or unusual inputs that were previously only in the body of the template. The example's output was brought into line with those edits.
 
@@ -89,4 +89,4 @@ Draft for approval by the operations manager; spend for approval by the managing
   - Reach asks for channels whose notes say they reach groups the company wants to reach more of. College C's note says the careers office shares it with final-year students and recent leavers, which is not the same thing, so "none marked in the channel list" was written; the judgement is still the reader's.
   - The exception at the review covers a channel that started in the review week after week 1. A channel moved by the cap to a week before the review week (possible when the review week is later than week 2) is listed as usual, even if it has run only a short time.
 - **Not reached by this run.** The stop conditions, the declines, a blank hours column, a missing weekly cap or pay range, a record row for a channel not on the list, the reach addition, and an agency's percentage fee worked out on both ends of the pay range for an agency in the plan. The acceptance tests that would reach them are proposed and have not been run.
-- **Shortcomings.** This is one run, by one model, on one invented example, not blind to the published output. It shows that the edited instructions can be followed to the published result and says nothing about other inputs or other products. A blind run by an assistant that has not seen the example is still to do.
+- **Shortcomings.** This is one run, by one model, on one example, not blind to the published output. It shows that the edited instructions can be followed to the published result and says nothing about other inputs or other products. A blind run by an assistant that has not seen the example is still to do.

@@ -1,6 +1,6 @@
-# Interview scheduling and candidate confirmation: an invented example
+# Interview scheduling and candidate confirmation: an example
 
-*Illustrative example with invented data.* Company Q, its people, its candidates, their email addresses and every word of the inputs below are invented; the addresses use domains reserved for examples. Company Q stands for an invented 120-person software company whose staff work remotely across North America. It is filling a customer support team lead role. The hiring manager (the Head of Support) and the people partner have already chosen four candidates for the second interview; the recruiting coordinator schedules them.
+*Illustrative example with sample data.* Company Q, its people, its candidates, their email addresses and every word of the inputs below are illustrative; the addresses use domains reserved for examples. Company Q stands for an illustrative 120-person software company whose staff work remotely across North America. It is filling a customer support team lead role. The hiring manager (the Head of Support) and the people partner have already chosen four candidates for the second interview; the recruiting coordinator schedules them.
 
 The inputs come first, in full, so the template can be run on them. The scheduling sheet and its drafts follow.
 

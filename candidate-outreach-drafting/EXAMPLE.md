@@ -1,6 +1,6 @@
-# Candidate outreach drafting: an invented example
+# Candidate outreach drafting: an example
 
-*Illustrative example with invented data.* The company, the role, the people, the addresses, the blogs, meetups and conferences, and every word of the notes below are invented. Company A stands for an invented 30-person company that makes route-planning software for regional delivery firms. Blog B, Meetup C and the open-source library mentioned are invented too, and every address uses a reserved example domain. Sam R., the co-founder and CEO, is hiring a senior data engineer and has already chosen five people to write to.
+*Illustrative example with sample data.* The company, the role, the people, the addresses, the blogs, meetups and conferences, and every word of the notes below are illustrative. Company A stands for an illustrative 30-person company that makes route-planning software for regional delivery firms. Blog B, Meetup C and the open-source library mentioned are illustrative too, and every address uses a reserved example domain. Sam R., the co-founder and CEO, is hiring a senior data engineer and has already chosen five people to write to.
 
 The inputs come first, in full, so the template can be run on them. The pack the workflow template returned follows.
 

@@ -1,6 +1,6 @@
-# Reference check question plan: an invented example
+# Reference check question plan: an example
 
-*Illustrative example with invented data.* Company A, Candidate K, the referees, their organisations and every word of the inputs below are invented. Company A is an invented 30-person engineering consultancy hiring an operations coordinator. The operations director is the hiring manager, the recruiter runs the reference stage, and the office and people manager is the people lead.
+*Illustrative example with sample data.* Company A, Candidate K, the referees, their organisations and every word of the inputs below are illustrative. Company A is an illustrative 30-person engineering consultancy hiring an operations coordinator. The operations director is the hiring manager, the recruiter runs the reference stage, and the office and people manager is the people lead.
 
 The inputs come first, in full, so the template can be run on them. The plan follows.
 

@@ -8,7 +8,7 @@ For one approved role, get a bounded practical exercise, candidate instructions 
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · Recruiting and hiring · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/work-sample-exercise-brief/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=recruiting-work-sample-exercise-brief&from=gh-recruiting-work-sample-exercise-brief)*
@@ -17,7 +17,7 @@ For one approved role, get a bounded practical exercise, candidate instructions 
 
 Every candidate for the role does the same small piece of the real work, with the same materials, the same time and the same help. The hiring manager knows why that task was chosen, which of the agreed criteria it can show and which it cannot, and what the panel will point to in a finished piece of work. Candidates know before they start how long it should take, what they will hand in, what the panel looks at and what the company will not do with their work.
 
-The exercise is built on invented materials, never a live client's papers or a former employer's, and never on work the company would use. The time limit sits inside the hiring manager's approved effort. Adjustments are offered to everyone in the same words, so no one has to explain why they need one.
+The exercise is built on sample materials, never a live client's papers or a former employer's, and never on work the company would use. The time limit sits inside the hiring manager's approved effort. Adjustments are offered to everyone in the same words, so no one has to explain why they need one.
 
 The brief ends with a blank record sheet for each panel member. It has no total, no weighting and no scale. The template prepares the exercise; it never reads a submission, and it never rates, ranks or compares anyone.
 
@@ -39,7 +39,7 @@ One brief in a fixed order: why this task, the exercise and its materials, the t
 
 The review notes list what was used, what was changed, what was left out and why, what was declined, and the open questions for each person. Missing wording is a marked gap, never a guess. Nothing has been sent to a candidate, and the brief says so on its last line.
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -58,7 +58,7 @@ What the company owes a candidate who asks for an adjustment is a question for y
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template in its own words, from its own published map of the work. It was editorially reviewed on 10 November 2026. It was tried once on its invented example in Claude on 10 November 2026, by a model that did not write the first version and that then edited the template; the record is in the trial page, and the run was partly exposed to the example's output. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template in its own words, from its own published map of the work. It was editorially reviewed on 10 November 2026. It was tried once on its example in Claude on 10 November 2026, by a model that did not write the first version and that then edited the template; the record is in the trial page, and the run was partly exposed to the example's output. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on roles you have already filled, where the hiring manager knows what the work needed, plus hard cases written in advance: a request to use a live client's project, an exercise longer than the limit, a task list with the wrong headers, a request to rank the submissions. The hiring manager checks that every piece of evidence can be pointed to in the work, and the people lead checks the arrangements and the wording to candidates. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=recruiting-work-sample-exercise-brief&from=gh-recruiting-work-sample-exercise-brief) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=recruiting-work-sample-exercise-brief&from=gh-recruiting-work-sample-exercise-brief) describes the record we keep.
 
@@ -66,13 +66,13 @@ Testing in your environment means running it on roles you have already filled, w
 - Sources and rights reviewed.
 - Editorially reviewed on 10 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.

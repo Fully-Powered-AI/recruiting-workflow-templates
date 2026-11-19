@@ -1,6 +1,6 @@
-# Hiring pipeline status report: an invented example
+# Hiring pipeline status report: an example
 
-*Illustrative example with invented data.* The company, its roles, its sources, every row and every word of the inputs below are invented. The company, called Company F here, is an invented 70-person firm that makes scheduling software for field-service businesses. It has no recruiting team: the Head of People runs hiring with a part-time talent coordinator and sends the founder a status report every Monday. Job board A, Job board B and Agency C stand in for the sources the company uses.
+*Illustrative example with sample data.* The company, its roles, its sources, every row and every word of the inputs below are illustrative. The company, called Company F here, is an illustrative 70-person firm that makes scheduling software for field-service businesses. It has no recruiting team: the Head of People runs hiring with a part-time talent coordinator and sends the founder a status report every Monday. Job board A, Job board B and Agency C stand in for the sources the company uses.
 
 The inputs come first, in full, so the template can be run on them. The report follows.
 

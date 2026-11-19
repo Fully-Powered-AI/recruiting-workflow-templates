@@ -8,7 +8,7 @@ Draft a first message and two follow-ups for each person you chose to approach, 
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · Recruiting and hiring · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/candidate-outreach-drafting/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=recruiting-candidate-outreach-drafting&from=gh-candidate-outreach-drafting)*
@@ -37,7 +37,7 @@ The recruiter, or the founder or hiring manager doing their own hiring, starts i
 
 One pack in a fixed order: the checks made before drafting; who was not drafted and why; for each person, in your order, the three dated messages and where the personal line came from; the details left out and why; the reply log; anyone to add to your do-not-contact list; what ends the messages; what to read before sending; and the defaults used. Every personal line can be traced to a row you supplied.
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -56,7 +56,7 @@ It runs in ChatGPT, Claude, Copilot or Gemini from the files you supply, with no
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template, drawing on one openly licensed package credited in its sources. It was editorially reviewed on 10 November 2026. It was tried on its invented example on 10 November 2026 in two runs; the record of the second is published with it. It has not yet been tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template, drawing on one openly licensed package credited in its sources. It was editorially reviewed on 10 November 2026. It was tried on its example on 10 November 2026 in two runs; the record of the second is published with it. It has not yet been tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on a past round of outreach you remember well, plus hard cases written in advance: a name on the do-not-contact list under a different address, a detail taken from a personal account, a reply that arrives after the first message, a request to sort the list. The recruiter checks every message against the inputs before anything is sent. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=recruiting-candidate-outreach-drafting&from=gh-candidate-outreach-drafting) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=recruiting-candidate-outreach-drafting&from=gh-candidate-outreach-drafting) describes the record we keep.
 
@@ -64,13 +64,13 @@ Testing in your environment means running it on a past round of outreach you rem
 - Sources and rights reviewed.
 - Editorially reviewed on 10 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.

@@ -1,10 +1,10 @@
-# Hiring pipeline status report: trial on the invented example
+# Hiring pipeline status report: trial on the example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-10
 
-The inputs for this run are the invented example in `public/example.md`: its settings, list of roles, applications export of 9 November 2026, this week's blocker note and last week's blockers. No client data was used. The run was made once. The model that ran it had not written the template. It read the template and the example's inputs, produced the report, and only then read the example's published output to compare.
+The inputs for this run are the example in `public/example.md`: its settings, list of roles, applications export of 9 November 2026, this week's blocker note and last week's blockers. No client data was used. The run was made once. The model that ran it had not written the template. It read the template and the example's inputs, produced the report, and only then read the example's published output to compare.
 
 Because the run was in Claude Code, the model could count the rows with a short script as a cross-check. The template does not need one, but a chat product with no way to run code would have to count by reading, and the 44 rows are where mistakes would come in.
 
@@ -100,9 +100,9 @@ Prepared from the export of 9 November 2026. Nothing has been sent and no record
 7. *Ties for "longest open first"* are not covered. None arose here.
 
 **Other shortcomings.**
-- The template's "Version notes" still say it has not been tried on its invented example. That line needs updating now that this trial exists.
+- The template's "Version notes" still say it has not been tried on its example. That line needs updating now that this trial exists.
 - Recounting was necessary. There are 44 rows and five stages, and the pass-through and source figures are easy to get wrong by hand. Without code the run could slip, and the checklist's first and fourth items are the safeguard.
-- This is one run of one model. It shows that the template can be followed to the published figures on this invented example. It does not show the same on a real export, with a different product, or on a differently shaped file, and it was not tested in a client environment.
+- This is one run of one model. It shows that the template can be followed to the published figures on this example. It does not show the same on a real export, with a different product, or on a differently shaped file, and it was not tested in a client environment.
 
 ## Changed after this run
 
@@ -114,5 +114,5 @@ Changed on 10 November 2026 after an independent review of the published templat
 - **Where to look first.** [role] in the pattern is now stated to be the open role being hired for, as the run read it. The longest wait is the most days waited, and it may sit on the same role as the second item, as the run did (point 4). The example's three items were rewritten to name the open role after "for", as the run did; their figures are unchanged.
 - **The pasted instructions** now list what the headline holds (point 5) and carry the three rules that were only in the procedure: a role whose hired count reaches its openings goes under Gaps, "interview stage not set", and a stage with no limit named in the header (point 6). They also give the wording for a missing blocker note, a missing last report and a week with nothing to look at first, which the output format already carried. None of these came up in this example.
 - **Ties for "longest open first"** follow the order of the list of roles (point 7). None arose in this example.
-- **The version notes** and the "What has been checked" section of the public page now say the template was tried once on its invented example in Claude on 10 November 2026.
+- **The version notes** and the "What has been checked" section of the public page now say the template was tried once on its example in Claude on 10 November 2026.
 - **The example** now says it is set with bold labels and bullets for the page, and that the assistant returns the same lines as plain text.

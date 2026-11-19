@@ -4,7 +4,7 @@ Workflow template, version 0.1.0.
 
 ## Purpose
 
-Prepare, for one approved role, a practical exercise a candidate can do in a limited time: one bounded task taken from the role's real work, built on invented materials; written instructions for the candidate, with the time allowance and the accessibility arrangements; and the observable evidence the panel will look for in the finished work. The assistant prepares the brief. The hiring manager approves the task, its relevance and the effort asked of candidates. The panel judges the work. The assistant never reads a submission and never rates, ranks, screens or compares a submission or a candidate.
+Prepare, for one approved role, a practical exercise a candidate can do in a limited time: one bounded task taken from the role's real work, built on sample materials; written instructions for the candidate, with the time allowance and the accessibility arrangements; and the observable evidence the panel will look for in the finished work. The assistant prepares the brief. The hiring manager approves the task, its relevance and the effort asked of candidates. The panel judges the work. The assistant never reads a submission and never rates, ranks, screens or compares a submission or a candidate.
 
 ## When to use it and when not to
 
@@ -33,10 +33,10 @@ Do not use it to plan the interviews (use Interview plan and scorecard), to writ
 ## The procedure
 
 1. **Check the inputs.** Stop on a missing role description, missing or unapproved criteria, a missing task list or a header that does not match. Read the criteria for anything that names a protected trait, a school, a personality guess or "culture fit" without a behaviour. Do not build on such a criterion: report it under Removed in the review notes (step 11) and carry on with the others.
-2. **Choose the task.** From the task list, keep tasks that are in the role description or done at least monthly, and that can be cut down to a stand-alone slice that fits the working minutes (step 4). Prefer the task that serves the most approved criteria, between two and four. If none serves two, choose the best one and say so. A task whose real inputs are a client's, a former employer's or the company's confidential papers may still be chosen, but only rebuilt on invented material (step 3). Name the chosen task, give one line for each other task on why it was not chosen, and list the criteria the exercise cannot show.
-3. **Write the scenario and the materials.** Number the materials M1, M2 and so on. Use invented names only, or letters (Client A). Never copy a real client, person, rate or figure from the inputs; replace it with an invented equivalent and report the change. If a list of topics the company never raises was supplied, keep the scenario, the materials, the questions and the candidate instructions clear of every topic on it, and report under Changes anything you altered for that reason. Everything the candidate needs must be in the materials or the instructions: no company system, no knowledge of the company, no outside lookup. Every date and sum is computed, then recomputed. Plant a gap or a contradiction only when an approved criterion is about noticing one, and list it under reference points. Where the hiring manager must supply something the assistant cannot invent, leave a marked slot with who supplies it.
+2. **Choose the task.** From the task list, keep tasks that are in the role description or done at least monthly, and that can be cut down to a stand-alone slice that fits the working minutes (step 4). Prefer the task that serves the most approved criteria, between two and four. If none serves two, choose the best one and say so. A task whose real inputs are a client's, a former employer's or the company's confidential papers may still be chosen, but only rebuilt on sample material (step 3). Name the chosen task, give one line for each other task on why it was not chosen, and list the criteria the exercise cannot show.
+3. **Write the scenario and the materials.** Number the materials M1, M2 and so on. Use sample names only, or letters (Client A). Never copy a real client, person, rate or figure from the inputs; replace it with an illustrative equivalent and report the change. If a list of topics the company never raises was supplied, keep the scenario, the materials, the questions and the candidate instructions clear of every topic on it, and report under Changes anything you altered for that reason. Everything the candidate needs must be in the materials or the instructions: no company system, no knowledge of the company, no outside lookup. Every date and sum is computed, then recomputed. Plant a gap or a contradiction only when an approved criterion is about noticing one, and list it under reference points. Where the hiring manager must supply something the assistant cannot invent, leave a marked slot with who supplies it.
 4. **Set the time.** The allowance is the settings limit. Default split: reading one sixth, checking and sending one sixth, working the rest, each to the nearest 5 minutes (exactly halfway rounds down, so 7.5 becomes 5), giving any remainder to working. If a pre-approved extra-time adjustment exists, compute the extended split the same way. Say that the allowance is a limit, that stopping at it is expected, and that the panel judges what is there. If the extended time takes the exercise past the paid threshold, the settings' payment rule decides; if it does not say whether the extra time counts, raise an open question to the people lead, and any payment needs a person's approval.
-5. **Run the effort check.** Ask whether the company would use the output for real. If yes, redesign on invented material. The exercise has one round, with nothing further asked unless it is in the brief. If the hiring manager asks for more than the limit, do not use the request; keep the limit, say that the payment rule applies above it and that payment needs a person's approval, and put it to the hiring manager as an open question.
+5. **Run the effort check.** Ask whether the company would use the output for real. If yes, redesign on sample material. The exercise has one round, with nothing further asked unless it is in the brief. If the hiring manager asks for more than the limit, do not use the request; keep the limit, say that the payment rule applies above it and that payment needs a person's approval, and put it to the hiring manager as an open question.
 6. **Write the accessibility arrangements.** The standing wording is asked of every candidate in the same words before the exercise is given. List the pre-approved adjustments from the settings. Anything outside the list is a decision for the people lead, not the assistant. Materials are offered in plain text as well as the main format. Extra time scales the reading, working and checking parts together. The criteria, the materials and the evidence do not change with an adjustment. The question asks what would help, never why; never ask for a reason, a diagnosis or a document. Do not say what a candidate is owed under any rule.
 7. **Write the evidence.** For each criterion served: clear evidence in the work (something that can be pointed to in the submission), what gaps look like, and what is not evidence. Then reference points: the facts in the materials the panel can check an answer against, with the working shown. Then the list of what is not counted for any criterion. Default list: how fast the work was returned, layout and formatting beyond what the brief asks, length beyond the stated limits, the variety of English used, and anything outside the submission itself.
 8. **Write the candidate instructions** in plain language, in this order: what this is and why; what to do; the time; the materials (the instructions point to the materials in section 2 and say they come with the brief; they do not repeat them); what to hand in, how and by when; what the panel looks at, in plain words from the clear evidence; what the company will not do; the adjustments; who to ask; what happens next. "What the company will not do" always includes: use the work for anything except this application; ask for more unpaid work; judge anything outside the work.
@@ -49,10 +49,10 @@ Do not use it to plan the interviews (use Interview plan and scorecard), to writ
 
 - **No approved role description, no approved criteria, or no task list:** stop and say which.
 - **A task-list header does not match the defaults:** stop and ask which column is which.
-- **No task can be built without confidential material, a former employer's material or work the company would use, even on invented data:** stop, and say that this role may not suit an exercise.
+- **No task can be built without confidential material, a former employer's material or work the company would use, even on sample data:** stop, and say that this role may not suit an exercise.
 - **The hiring manager asks for a longer exercise than the limit:** keep the limit; open question; payment, if any, needs a person's approval.
 - **A criterion cannot be shown in the time:** list it under not covered and say which other evidence (the interviews, for example) has to carry it.
-- **Asked to use a live client's project, or a former employer's material:** decline; offer the same kind of task on invented material.
+- **Asked to use a live client's project, or a former employer's material:** decline; offer the same kind of task on sample material.
 - **Asked to read a submission, rate, rank, screen or compare submissions or candidates, say who to hire, or give a mark:** decline; the panel judges the work and the decider decides.
 - **Asked to write interview questions, a role description, an offer or employment terms, or say what the law allows:** decline and name who owns it.
 - **Asked to send the brief, invite a candidate, collect submissions or pay anyone:** decline. A person does each of these after approval.
@@ -72,7 +72,7 @@ Not shown by this exercise: [criteria, and what else carries them], or "none".
 Other tasks considered: [task: why not chosen], one line each, or "none".
 
 2. THE EXERCISE
-Scenario: [two to four sentences, invented names only].
+Scenario: [two to four sentences, sample names only].
 The candidate is asked to:
   1. [what to produce]
 Materials, as the candidate sees them:
@@ -137,7 +137,7 @@ Nothing has been sent to a candidate. No submission or candidate has been rated,
 ## Reviewer checklist
 
 1. The chosen task is in the task list, and the criteria it serves are all approved ones. (Hiring manager)
-2. Every material is invented, every date and sum is correct, and the exercise can be done from the materials alone. (Hiring manager)
+2. Every material is illustrative, every date and sum is correct, and the exercise can be done from the materials alone. (Hiring manager)
 3. The time split adds up to the total, for the standard and the extended time. (Recruiter)
 4. The company would not use the output, and the effort is acceptable for a candidate. (Hiring manager)
 5. Every item of clear evidence can be pointed to in the work, and none depends on a trait, style or anything outside the submission. (Panel member)
@@ -152,7 +152,7 @@ Proposed tests. None has been run.
 1. **Normal run.** Approved criteria, a task list with the default headers, standard settings. Expected: one task chosen with reasons, all nine sections filled, time split adding up.
 2. **Header mismatch.** The task list has "Minutes" where "Typical minutes" is expected. Expected: stops and asks which column is which.
 3. **Unapproved criteria.** Expected: stops and names the workflow template that produces them.
-4. **Live project.** The notes ask to use a current client's project. Expected: declined, same kind of task offered on invented material.
+4. **Live project.** The notes ask to use a current client's project. Expected: declined, same kind of task offered on sample material.
 5. **Too long.** The notes ask for a two-hour exercise with a 60-minute limit. Expected: limit kept, open question, payment needing a person's approval.
 6. **Extra time.** A 60-minute allowance with a 50 percent extra-time arrangement. Expected: 90 minutes, with 15, 60 and 15 as the split.
 7. **Criterion not showable.** One approved criterion cannot be seen in 40 working minutes. Expected: listed as not shown, with what else carries it.
@@ -193,8 +193,8 @@ and ask which column is which. Never guess a column or fill a gap.
    working time, serving the most approved criteria (two to four if
    possible). Give one line on why each other task was not chosen. List
    the criteria the exercise cannot show and what else must carry them.
-3. Write the scenario and numbered materials on invented material only.
-   Use invented names or letters. Never copy a real client, person, rate
+3. Write the scenario and numbered materials on sample material only.
+   Use sample names or letters. Never copy a real client, person, rate
    or figure from the inputs; replace it and report the change. If a list
    of topics the company never raises was supplied, keep the scenario,
    materials and instructions clear of those topics and report any change
@@ -204,14 +204,14 @@ and ask which column is which. Never guess a column or fill a gap.
    and list it under reference points. If the hiring manager must supply
    something you cannot invent, leave a marked slot saying who supplies
    it. A task whose real inputs are confidential may be chosen only if
-   rebuilt on invented material.
+   rebuilt on sample material.
 4. Time: the allowance is the settings limit (default 60 minutes).
    Split: reading one sixth, checking and sending one sixth, the rest
    working, each to the nearest 5 minutes (exactly halfway rounds down).
    If extra time is agreed, compute the extended split the same way.
    The allowance is a limit; the panel judges what is there.
 5. Effort check: if the company would use the output, redesign on
-   invented material. One round only. If asked for more than the limit,
+   sample material. One round only. If asked for more than the limit,
    keep the limit, say the payment rule applies above it and that
    payment needs a person's approval, and raise an open question. If
    agreed extra time takes the exercise past the paid threshold and the
@@ -275,4 +275,4 @@ lead approve it.
 
 ## Version notes
 
-- 0.1.0, 10 November 2026. Written by FullyPowered AI from its own published map of the work, with no third-party text. Editorially reviewed. Tried once on its invented example in Claude on 10 November 2026, by a model that did not write the first version but then edited it, with the record rewritten for the edited version; the run was partly exposed to the example's output. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+- 0.1.0, 10 November 2026. Written by FullyPowered AI from its own published map of the work, with no third-party text. Editorially reviewed. Tried once on its example in Claude on 10 November 2026, by a model that did not write the first version but then edited it, with the record rewritten for the edited version; the run was partly exposed to the example's output. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.

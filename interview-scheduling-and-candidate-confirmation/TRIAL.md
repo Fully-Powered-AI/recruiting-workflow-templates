@@ -5,7 +5,7 @@
 - **Date:** 2026-11-10
 - **Template version:** 0.1.0, as revised on 10 November 2026
 
-The inputs are the invented example in `public/example.md` (Company Q, four invented candidates, invented addresses on reserved example domains). No client data was used. It shows what the template produced once, on one set of inputs. It is not a test in any company's environment.
+The inputs are the example in `public/example.md` (Company Q, four illustrative candidates, illustrative addresses on reserved example domains). No client data was used. It shows what the template produced once, on one set of inputs. It is not a test in any company's environment.
 
 This is the second run on the example. The first, on the same day, was made by Claude Sonnet 5.5, a model that had not written the template; it agreed with the example on every time, count, order, proposal, alternative, option and draft, and listed the places where the instructions left room to guess. After an independent review, the template was revised to close them (see "The earlier run, and what was changed" below); the example's inputs were not changed. The run recorded here was then made on the revised version by the same model, in the same session, that made the revisions, and that had already read the first run's record and the example. It followed the revised instruction block and output format on the six inputs, and the example's published output was then replaced with this output. It is therefore a check that the revised instructions produce the published result, not an independent trial: the agreement below is expected and is not evidence from a fresh reader.
 
@@ -159,7 +159,7 @@ Draft for the Recruiting coordinator. A person checks every time, holds it on th
   2. Two options offered to the same candidate may overlap each other (Ines's 11:00 and 11:30). That is correct, since she needs only one, but the template does not say it.
   3. Which open questions beyond the required ones a run asks is left to the run, so another run may ask different ones.
   4. The run needs careful arithmetic across four time zones and a buffer rule, which the template leaves to the assistant. Every figure here was checked by hand against the exports, and the reviewer checklist asks a person to do the same.
-- **What this does not show.** It is one run on one invented example, in one product, by the model that revised the template. It does not show how the template behaves on messy exports, a clock change inside a period, a missing header or a longer candidate list. The proposed acceptance tests in the template have not been run.
+- **What this does not show.** It is one run on one example, in one product, by the model that revised the template. It does not show how the template behaves on messy exports, a clock change inside a period, a missing header or a longer candidate list. The proposed acceptance tests in the template have not been run.
 
 ## The earlier run, and what was changed
 

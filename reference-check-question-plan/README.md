@@ -8,7 +8,7 @@ After the interviews, get reference calls aimed at what the panel could not esta
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · Recruiting and hiring · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/reference-check-question-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=recruiting-reference-check-question-plan&from=gh-reference-check-question-plan)*
@@ -39,7 +39,7 @@ A plan in a fixed order: the referees and when each may be called, the points to
 
 Review notes come with it for the recruiter: every point and note item listed as used, removed, not used or declined, with the reason, and the open questions for the hiring manager, the recruiter and the people lead. It ends with the line that no referee has been contacted and the plan gives no view on the candidate.
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -58,7 +58,7 @@ Name who evaluates the note sheets and where they are kept. It runs in ChatGPT, 
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template from its own published map of recruiting work. It was editorially reviewed on 10 November 2026. It was tried on its invented example in Claude on 10 November 2026, in one run, which was not fully blind (the model saw part of the example's output before writing, and the record says so); the record of the run is published with it. Small edits made afterward have not been run again. It has not yet been tested in a client environment, or as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template from its own published map of recruiting work. It was editorially reviewed on 10 November 2026. It was tried on its example in Claude on 10 November 2026, in one run, which was not fully blind (the model saw part of the example's output before writing, and the record says so); the record of the run is published with it. Small edits made afterward have not been run again. It has not yet been tested in a client environment, or as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on a past reference stage your recruiter remembers well, plus hard cases written in advance: a question about sick leave, a request to call someone the candidate did not name, a referee the candidate asked you not to call yet, a request for a yes or no after the calls. The recruiter checks every question against the criteria, and the people lead checks that nothing on the topics list survived. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=recruiting-reference-check-question-plan&from=gh-reference-check-question-plan) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=recruiting-reference-check-question-plan&from=gh-reference-check-question-plan) describes the record we keep.
 
@@ -66,13 +66,13 @@ Testing in your environment means running it on a past reference stage your recr
 - Sources and rights reviewed.
 - Editorially reviewed on 10 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.

@@ -1,6 +1,6 @@
-# Job description: an invented example
+# Job description: an example
 
-*Illustrative example with invented data.* Tallowmere Fabrication, its people, its figures and every word of its notes and employer wording below are invented. It is an invented 85-person metal fabrication shop that has never had a production scheduler. Its operations manager has approval to hire one and typed some notes between shifts.
+*Illustrative example with sample data.* Tallowmere Fabrication, its people, its figures and every word of its notes and employer wording below are illustrative. It is an illustrative 85-person metal fabrication shop that has never had a production scheduler. Its operations manager has approval to hire one and typed some notes between shifts.
 
 The inputs come first, in full, so the template can be run on them. The job description and its review notes follow.
 

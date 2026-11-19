@@ -315,4 +315,4 @@ its spend.
 
 ## Version notes
 
-- 0.1.0, 10 November 2026. Written by FullyPowered AI. Editorially reviewed. Tried on its invented example in Claude on 10 November 2026; the record of the latest run is published with it, says plainly that the run was not blind to the published example output, and lists the ambiguities it met. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+- 0.1.0, 10 November 2026. Written by FullyPowered AI. Editorially reviewed. Tried on its example in Claude on 10 November 2026; the record of the latest run is published with it, says plainly that the run was not blind to the published example output, and lists the ambiguities it met. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.

@@ -1,17 +1,17 @@
-# Candidate outreach drafting: a trial on the invented example
+# Candidate outreach drafting: a trial on the example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Opus 5.5 (model ID claude-opus-5-5)
 - **Date:** 2026-11-10
 - **Template version:** 0.1.0
 
-This is a record of one run of the workflow template on its own invented example. The company, the role, the people and every note are invented, and no client data was used. It shows what the template produced once, on one set of inputs. It is not a test in any company's environment.
+This is a record of one run of the workflow template on its own example. The company, the role, the people and every note are illustrative, and no client data was used. It shows what the template produced once, on one set of inputs. It is not a test in any company's environment.
 
 This is the second run on the same example. An earlier run the same day showed where the instructions left room to guess; the instructions and the example were revised, and the run recorded here was made on the revised instructions. What the earlier run found, and what was changed, is at the end.
 
 ## The inputs used
 
-The inputs are exactly the six in `public/example.md`, under "The inputs": the role brief for the senior data engineer at Company A, the company facts page, the approach list of five invented people, the two-entry do-not-contact list, the two-line reply log and the settings. No client data was used.
+The inputs are exactly the six in `public/example.md`, under "The inputs": the role brief for the senior data engineer at Company A, the company facts page, the approach list of five sample people, the two-entry do-not-contact list, the two-line reply log and the settings. No client data was used.
 
 The run was a fresh session started from Claude Code with no tools, no access to any file and its customizations switched off. Its instructions were the fenced instruction block and the output format from `member/template.md`, exactly as they now stand; its one message was the six inputs, copied from `public/example.md`. It saw neither the example's output nor the earlier run, and it did not write or revise the template. The revisions after the earlier run were made in a separate session of the same model.
 
@@ -203,7 +203,7 @@ Word counts, from the line after the greeting to the line before the sign-off, w
 
 - No instruction was misleading, and no stop condition was hit. The output format and the instruction block agree with each other.
 - The P3 note "for this role" is a small slip by the run, not a gap in the template: the template says the do-not-contact list means nothing is drafted, without limit to one role. A sender reading the pack should take the list as covering every role.
-- This is one run, by one model, on an invented example. It shows the revised instructions can be followed to a complete and consistent pack. It does not show the template works in a real hiring setting, in other products, or on messy real exports. Of the acceptance tests in the template, only test 1 has the shape of this example; the others were not run.
+- This is one run, by one model, on an example. It shows the revised instructions can be followed to a complete and consistent pack. It does not show the template works in a real hiring setting, in other products, or on messy real exports. Of the acceptance tests in the template, only test 1 has the shape of this example; the others were not run.
 
 ## The earlier run, and what was changed
 

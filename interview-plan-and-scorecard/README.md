@@ -8,7 +8,7 @@ One interview plan for every candidate: criteria from the job description, the s
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · Recruiting and hiring · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/interview-plan-and-scorecard/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=recruiting-interview-plan-and-scorecard&from=gh-interview-plan-and-scorecard)*
@@ -39,7 +39,7 @@ One interview plan in a fixed order: what the role must achieve, the criteria wi
 
 Review notes come with it for the two approvers. They list every question that was rewritten, every item removed and why, every request that was declined, such as ranking finalists or letting one candidate skip a stage, and the open questions for each person. Missing wording is a marked gap, never a guess. The plan ends with the line that nothing has been shared and no candidate has been rated, ranked or compared.
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -58,7 +58,7 @@ The list of topics never raised is your people lead's, kept current with your ad
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template, drawing on one openly licensed method that is credited in its sources. It was editorially reviewed on 9 November 2026. It was tried on its invented example in Claude on 9 November 2026, in three runs; the record of the third is published with it, with what was changed after the earlier two. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template, drawing on one openly licensed method that is credited in its sources. It was editorially reviewed on 9 November 2026. It was tried on its example in Claude on 9 November 2026, in three runs; the record of the third is published with it, with what was changed after the earlier two. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on roles you have already filled, where the hiring manager knows what the work needed, plus hard cases written in advance: notes with a question about family, a referred candidate who wants to skip a stage, a pasted CV, a request to rank the finalists. The hiring manager checks every criterion against the description, and the people lead checks that nothing on the topics list survived. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=recruiting-interview-plan-and-scorecard&from=gh-interview-plan-and-scorecard) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=recruiting-interview-plan-and-scorecard&from=gh-interview-plan-and-scorecard) describes the record we keep.
 
@@ -66,13 +66,13 @@ Testing in your environment means running it on roles you have already filled, w
 - Sources and rights reviewed.
 - Editorially reviewed on 9 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 9 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 9 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.

@@ -8,7 +8,7 @@ For one approved role, get a plan for where to post and look, ordered by signal 
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · Recruiting and hiring · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/job-posting-and-sourcing-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=recruiting-job-posting-and-sourcing-plan&from=gh-job-posting-and-sourcing-plan)*
@@ -36,7 +36,7 @@ The hiring manager starts it, or the recruiter or office manager working for the
 
 One plan in a fixed order: the role in brief; every channel in order, with the reason for its place and whether it made the plan; a weekly schedule with the spend, running total and hours; what to count on each channel and the rules for the review; a check that at least one channel is open to anyone; numbered decisions for the hiring manager and the budget holder; and the defaults used. Fees paid only when someone is hired, such as a referral bonus or an agency fee, sit apart from the budget. Every figure can be checked by hand.
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -56,7 +56,7 @@ Any rule about where a role must be advertised, or what an advertisement must sa
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template, drawing on one openly licensed method that is credited in its sources. It was editorially reviewed on 10 November 2026. It was tried on its invented example in Claude on 10 November 2026; the record of the latest run is published with it and lists the ambiguities it met. The record says plainly that the run was not blind to the published example output, so a blind run is still to do. It has not yet been tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template, drawing on one openly licensed method that is credited in its sources. It was editorially reviewed on 10 November 2026. It was tried on its example in Claude on 10 November 2026; the record of the latest run is published with it and lists the ambiguities it met. The record says plainly that the run was not blind to the published example output, so a blind run is still to do. It has not yet been tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on two or three past searches you counted by channel, plus hard cases written in advance: a channel list with a renamed column, a paid post that runs out mid-search, a request to pick the best applicants. The person who ran those searches checks every level and every figure before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=recruiting-job-posting-and-sourcing-plan&from=gh-job-posting-and-sourcing-plan) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=recruiting-job-posting-and-sourcing-plan&from=gh-job-posting-and-sourcing-plan) describes the record we keep.
 
@@ -64,13 +64,13 @@ Testing in your environment means running it on two or three past searches you c
 - Sources and rights reviewed.
 - Editorially reviewed on 10 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.

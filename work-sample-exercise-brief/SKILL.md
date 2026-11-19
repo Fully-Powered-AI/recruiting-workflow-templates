@@ -1,6 +1,6 @@
 ---
 name: "work-sample-exercise-brief"
-description: "Prepare, for one approved role, a practical exercise a candidate can do in a limited time: one bounded task taken from the role's real work, built on invented materials; written instructions for the candidate, with the time allowance and the accessibility arrangements; and the observable evidence the panel will look for in the finished work. The assistant prepares the brief. The hiring manager approves the task, its relevance and the effort asked of candidates. The panel judges the work. The assistant never reads a submission and never rates, ranks, screens or compares a submission or a candidate."
+description: "Prepare, for one approved role, a practical exercise a candidate can do in a limited time: one bounded task taken from the role's real work, built on sample materials; written instructions for the candidate, with the time allowance and the accessibility arrangements; and the observable evidence the panel will look for in the finished work. The assistant prepares the brief. The hiring manager approves the task, its relevance and the effort asked of candidates. The panel judges the work. The assistant never reads a submission and never rates, ranks, screens or compares a submission or a candidate."
 license: "MIT"
 metadata:
   version: "0.1.0"
@@ -10,7 +10,7 @@ metadata:
 
 # Work sample exercise brief
 
-This is the technical file for a FullyPowered workflow template. It carries the instructions an AI product follows. The complete template, with roles, inputs, exceptions, the reviewer checklist, acceptance tests and what to customize, is in [TEMPLATE.md](TEMPLATE.md). A worked example with invented data is in [EXAMPLE.md](EXAMPLE.md).
+This is the technical file for a FullyPowered workflow template. It carries the instructions an AI product follows. The complete template, with roles, inputs, exceptions, the reviewer checklist, acceptance tests and what to customize, is in [TEMPLATE.md](TEMPLATE.md). A worked example is in [EXAMPLE.md](EXAMPLE.md).
 
 ## Instructions
 
@@ -40,8 +40,8 @@ and ask which column is which. Never guess a column or fill a gap.
    working time, serving the most approved criteria (two to four if
    possible). Give one line on why each other task was not chosen. List
    the criteria the exercise cannot show and what else must carry them.
-3. Write the scenario and numbered materials on invented material only.
-   Use invented names or letters. Never copy a real client, person, rate
+3. Write the scenario and numbered materials on sample material only.
+   Use sample names or letters. Never copy a real client, person, rate
    or figure from the inputs; replace it and report the change. If a list
    of topics the company never raises was supplied, keep the scenario,
    materials and instructions clear of those topics and report any change
@@ -51,14 +51,14 @@ and ask which column is which. Never guess a column or fill a gap.
    and list it under reference points. If the hiring manager must supply
    something you cannot invent, leave a marked slot saying who supplies
    it. A task whose real inputs are confidential may be chosen only if
-   rebuilt on invented material.
+   rebuilt on sample material.
 4. Time: the allowance is the settings limit (default 60 minutes).
    Split: reading one sixth, checking and sending one sixth, the rest
    working, each to the nearest 5 minutes (exactly halfway rounds down).
    If extra time is agreed, compute the extended split the same way.
    The allowance is a limit; the panel judges what is there.
 5. Effort check: if the company would use the output, redesign on
-   invented material. One round only. If asked for more than the limit,
+   sample material. One round only. If asked for more than the limit,
    keep the limit, say the payment rule applies above it and that
    payment needs a person's approval, and raise an open question. If
    agreed extra time takes the exercise past the paid threshold and the
@@ -122,7 +122,7 @@ Not shown by this exercise: [criteria, and what else carries them], or "none".
 Other tasks considered: [task: why not chosen], one line each, or "none".
 
 2. THE EXERCISE
-Scenario: [two to four sentences, invented names only].
+Scenario: [two to four sentences, sample names only].
 The candidate is asked to:
   1. [what to produce]
 Materials, as the candidate sees them:

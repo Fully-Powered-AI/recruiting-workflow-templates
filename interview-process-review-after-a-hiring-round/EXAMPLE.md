@@ -1,6 +1,6 @@
-# Interview process review after a hiring round: an invented example
+# Interview process review after a hiring round: an example
 
-*Illustrative example with invented data.* The company, the role, the interviews, every question and every word of the feedback below are invented. The company, called Company K here, is an invented 45-person firm that makes booking software for restaurants. It has just closed a round for a Customer Operations Manager, with three candidates interviewed. The recruiting lead asked an operations coordinator to prepare the review. Candidates and interviewers appear only as codes (K1 to K3 and P1, P2, P4).
+*Illustrative example with sample data.* The company, the role, the interviews, every question and every word of the feedback below are illustrative. The company, called Company K here, is an illustrative 45-person firm that makes booking software for restaurants. It has just closed a round for a Customer Operations Manager, with three candidates interviewed. The recruiting lead asked an operations coordinator to prepare the review. Candidates and interviewers appear only as codes (K1 to K3 and P1, P2, P4).
 
 The inputs come first, in full, so the template can be run on them. The review follows.
 

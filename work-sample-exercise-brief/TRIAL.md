@@ -1,10 +1,10 @@
-# Work sample exercise brief: trial on its invented example
+# Work sample exercise brief: trial on its example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (claude-sonnet-5-5). It did not write the first version of the template, but it edited the template on 10 November 2026 after an earlier review, and then ran this trial on the edited version.
 - **Date:** 2026-11-10
 
-The inputs are the invented example's own (Studio B, a made-up 30-person studio hiring a Project Coordinator). No client data was used. This record replaces an earlier one made on the first version of the template, because the instruction block, the output format and the review notes changed.
+The inputs are the example's own (Studio B, a made-up 30-person studio hiring a Project Coordinator). No client data was used. This record replaces an earlier one made on the first version of the template, because the instruction block, the output format and the review notes changed.
 
 ## Inputs used
 
@@ -60,7 +60,7 @@ Time allowance: 60 minutes: 10 reading, 40 working, 10 checking and sending. Thi
 With the agreed extra time: 90 minutes: 15 reading, 60 working, 15 checking and sending.
 Where, when, how returned: at home, on the candidate's own computer; returned by email within 3 working days of receiving the brief, to the contact address (no return address was given; see Changes).
 Payment: an exercise longer than 60 minutes is paid. The exercise is set at 60 minutes, so no payment applies. With the agreed extra time it would run to 90 minutes; the rule does not say whether that counts, so see open question 2. Any payment needs a person's approval.
-Effort check: the company will not use the output; the client, cakes and dates are invented.
+Effort check: the company will not use the output; the client, cakes and dates are illustrative.
 
 4. ACCESSIBILITY ARRANGEMENTS
 Asked of every candidate, in the same words, before the exercise is given: "Is there anything that would help you do this exercise, such as extra time, a different format or a different day? Tell us and we will arrange it."
@@ -69,7 +69,7 @@ Needs a decision by Office Manager: none yet. Any other request goes to the Offi
 The criteria, materials and evidence do not change with an adjustment.
 
 5. CANDIDATE INSTRUCTIONS
-What this is and why. Thank you for applying to be our Project Coordinator. This is a short, practical exercise that shows us how you work on a task very like one in the job. Everything in it is invented. It is not a real client's work and we will not use it.
+What this is and why. Thank you for applying to be our Project Coordinator. This is a short, practical exercise that shows us how you work on a task very like one in the job. Everything in it is illustrative. It is not a real client's work and we will not use it.
 What to do. A client has asked for a change to a schedule. (1) Write the revised timeline, with a start and end date for each step. (2) List up to five questions or assumptions you would raise because the information leaves something open. (3) Write a reply to the client in 150 words or fewer.
 The time. Please spend no more than 60 minutes: about 10 reading, 40 working and 10 checking and sending. It is a limit. If you reach it, stop. We look at what is there. If you have arranged extra time, the limit is 90 minutes: 15, 60 and 15.
 The materials. M1 (the schedule), M2 (the client's message) and M3 (our note) come with this brief, in large print or plain text if you ask. You do not need anything else, and you do not need to know anything about us.
@@ -147,7 +147,7 @@ Not used:
 - "Give them two hours at home so we see how they cope under pressure": differs from the 60-minute limit in the settings; the limit is kept (open question 1).
 - "Note what time each one sends it back": speed of return is not evidence of any approved criterion; listed under not counted.
 Declined:
-- "Use the real Client K relaunch": a live client's project; the same kind of task is offered on invented material. Owner of the choice of task: the Head of Delivery.
+- "Use the real Client K relaunch": a live client's project; the same kind of task is offered on sample material. Owner of the choice of task: the Head of Delivery.
 - "Give each a mark out of 10, rank them and tell me who to hire": the assistant does not rate, rank or choose; the panel judges the work and the Head of Delivery decides.
 Open questions:
 1. Head of Delivery: the notes ask for two hours; the brief stays at 60 minutes. A two-hour exercise would be paid under the settings and a person would have to approve the payment. Keep 60 minutes?
@@ -168,5 +168,5 @@ Nothing has been sent to a candidate. No submission or candidate has been rated,
   - Whether the paid rule counts a candidate on agreed extra time is not settled by the inputs. The template now says to raise it; it does not decide it.
   - Whether a paused client review keeps its counted days was not stated in the inputs, so I wrote it into my own materials.
   - "Seen by" names the Office Manager because the Office Manager holds the reference numbers; the settings do not say who else sees submissions beyond the panel. A person should confirm.
-- **Facts not in the inputs.** In this output: the bakery, the wedding cakes, every date and the owner's absence, which are the invented material the template tells the assistant to create. The 150-word reply limit and the three-part submission are the assistant's own design for the invented exercise.
+- **Facts not in the inputs.** In this output: the bakery, the wedding cakes, every date and the owner's absence, which are the sample material the template tells the assistant to create. The 150-word reply limit and the three-part submission are the assistant's own design for the illustrative exercise.
 - **Shortcomings.** A single try on a single model; I could not check whether a real hiring manager would find the exercise fair. The reviewer checklist was applied only by me. No list of topics the company never raises was supplied, so that input was not exercised.

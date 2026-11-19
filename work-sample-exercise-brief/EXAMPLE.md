@@ -1,6 +1,6 @@
-# Work sample exercise brief: an invented example
+# Work sample exercise brief: an example
 
-*Illustrative example with invented data.* Studio B, its people, its role, its clients and every word of the inputs below are invented. Studio B is an invented 30-person marketing studio hiring its first Project Coordinator. The Head of Delivery is the hiring manager; the Office Manager is the people lead.
+*Illustrative example with sample data.* Studio B, its people, its role, its clients and every word of the inputs below are illustrative. Studio B is an illustrative 30-person marketing studio hiring its first Project Coordinator. The Head of Delivery is the hiring manager; the Office Manager is the people lead.
 
 The inputs come first, in full, so the template can be run on them. The brief follows.
 
@@ -163,7 +163,7 @@ Time allowance: 60 minutes: 10 reading, 40 working, 10 checking and sending. Thi
 With the agreed extra time: 90 minutes: 15 reading, 60 working, 15 checking and sending.
 Where, when, how returned: at home, on the candidate's own computer, by email within 3 working days of receiving the brief.
 Payment: an exercise longer than 60 minutes is paid. This one is 60 minutes, so no payment applies; see open question 2 for the 90-minute version.
-Effort check: Studio B will not use the output; the client, dates and steps are invented.
+Effort check: Studio B will not use the output; the client, dates and steps are illustrative.
 
 **4. ACCESSIBILITY ARRANGEMENTS**
 
@@ -176,7 +176,7 @@ The criteria, materials and evidence do not change with an adjustment.
 
 About this exercise. This is a small task of the kind a Project Coordinator at Studio B does. Every candidate gets the same one, so that we can look at the same kind of work.
 
-What to do. Studio B is making a gift email for a client, Client A. A change has come in. Use the three materials below to (1) write the revised timeline, with each step's start and end date; (2) list up to five questions or assumptions the materials leave open; and (3) write a reply to the client in 150 words or fewer. The client and every detail are invented.
+What to do. Studio B is making a gift email for a client, Client A. A change has come in. Use the three materials below to (1) write the revised timeline, with each step's start and end date; (2) list up to five questions or assumptions the materials leave open; and (3) write a reply to the client in 150 words or fewer. The client and every detail are illustrative.
 
 Time. Please spend no more than 60 minutes: about 10 reading, 40 working and 10 checking and sending. If you have arranged extra time, the limit is 90 minutes: 15, 60 and 15. Stop at the limit. We look at what is there, and an unfinished piece is fine.
 
@@ -272,11 +272,11 @@ Used: "Work sample for the coordinator role" (the notes' purpose).
 Changes: the settings give no return address, so submissions go to the contact address, recruiting@studio-b.example.
 Removed: none.
 Not used: "Give them two hours at home", because it differs from the 60-minute limit in the settings; the limit is kept (open question 1). "Note what time each one sends it back", because speed of return is not an approved criterion; it is listed under not counted.
-Declined: Use the real Client K relaunch, because an exercise never uses a live client's work; the same kind of task is offered on invented material; the Head of Delivery owns the choice of task. Give each a mark out of 10, rank the candidates and say who to hire, because the panel judges the work and the Head of Delivery decides.
+Declined: Use the real Client K relaunch, because an exercise never uses a live client's work; the same kind of task is offered on sample material; the Head of Delivery owns the choice of task. Give each a mark out of 10, rank the candidates and say who to hire, because the panel judges the work and the Head of Delivery decides.
 Open questions:
 1. Head of Delivery: the notes ask for two hours; the brief stays at the 60-minute limit. A two-hour exercise would be paid under the settings and the payment would need your approval. Do you want to keep 60 minutes?
 2. Office Manager: the agreed extra time makes the exercise 90 minutes, which is over the 60-minute paid threshold. Does the paid rule apply to a candidate who has arranged extra time?
 3. Office Manager: where are submissions kept? The settings give only the period.
-4. Head of Delivery: the step lengths in M1 (3, 2, 3, 2 and 2 days) are invented. Do they match how Studio B plans these steps?
+4. Head of Delivery: the step lengths in M1 (3, 2, 3, 2 and 2 days) are illustrative. Do they match how Studio B plans these steps?
 
 Nothing has been sent to a candidate. No submission or candidate has been rated, ranked, screened or compared. Prepared 10 November 2026.

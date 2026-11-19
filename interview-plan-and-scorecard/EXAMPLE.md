@@ -1,6 +1,6 @@
-# Interview plan and scorecard: an invented example
+# Interview plan and scorecard: an example
 
-*Illustrative example with invented data.* Fernhollow Bookkeeping, its people, its role and every word of the inputs below are invented. It is an invented 40-person bookkeeping and payroll firm that serves small businesses and is hiring its first client onboarding specialist. The client services manager is the hiring manager; the office and people manager is the people lead.
+*Illustrative example with sample data.* Fernhollow Bookkeeping, its people, its role and every word of the inputs below are illustrative. It is an illustrative 40-person bookkeeping and payroll firm that serves small businesses and is hiring its first client onboarding specialist. The client services manager is the hiring manager; the office and people manager is the people lead.
 
 The inputs come first, in full, so the template can be run on them. The interview plan and its review notes follow.
 

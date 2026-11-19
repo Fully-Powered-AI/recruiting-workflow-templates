@@ -1,12 +1,12 @@
-# Interview plan and scorecard: one trial on the invented example
+# Interview plan and scorecard: one trial on the example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Opus 5.5 (model ID claude-opus-5-5)
 - **Date:** 2026-11-09
 
-The inputs were the invented example in `public/example.md` (Fernhollow Bookkeeping, section "The inputs", parts 1 to 5: the approved job description, the hiring manager's notes, the interview settings, the topics never raised, and the settings), copied exactly. No client data was used.
+The inputs were the example in `public/example.md` (Fernhollow Bookkeeping, section "The inputs", parts 1 to 5: the approved job description, the hiring manager's notes, the interview settings, the topics never raised, and the settings), copied exactly. No client data was used.
 
-This is the third run on the same invented example. Two earlier runs the same day showed where the instructions could not be followed as pasted or left room to guess; the template and the example were revised after each, and the run recorded here was made on the revised template. What the earlier runs found, and what was changed, is at the end.
+This is the third run on the same example. Two earlier runs the same day showed where the instructions could not be followed as pasted or left room to guess; the template and the example were revised after each, and the run recorded here was made on the revised template. What the earlier runs found, and what was changed, is at the end.
 
 The run was a fresh session started from Claude Code with no tools and no access to any file, in a folder outside the repository. Its instructions were the template's instructions for an AI assistant followed by its output format, exactly as the template tells a member to paste them, and nothing else from the template. The inputs were sent as one message. The session did not see the rest of the template, the example's own plan or the earlier runs. The same model, in another session, revised the template after the earlier runs.
 

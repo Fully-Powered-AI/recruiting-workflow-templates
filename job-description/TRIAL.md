@@ -1,10 +1,10 @@
-# Job description: one trial run on the invented example
+# Job description: one trial run on the example
 
 - **Product:** Claude, run in Claude Code (version 2.1.322, run without tools)
 - **Model:** Claude Fable 5.2
 - **Date:** 2026-11-09
 
-This is a record of one run of the workflow template on its own invented example. Tallowmere Fabrication, its people, its figures and its wording are all invented, and no client data was used. It shows what the template produced once, on one set of inputs. It is not a test in any company's environment.
+This is a record of one run of the workflow template on its own example. Tallowmere Fabrication, its people, its figures and its wording are all illustrative, and no client data was used. It shows what the template produced once, on one set of inputs. It is not a test in any company's environment.
 
 This is the second run. A first run the same day found points where the instructions were unclear or disagreed with the worked example: what to do with a figure the company may not want public, what the length limit counts, where a must-have's tie to the work is written, where a requirement kept unchanged is recorded, and what to do when the team size is not supplied. The instructions, the output format and the worked example were revised to settle those points, and the template was run again from the start. This record describes the second run only.
 

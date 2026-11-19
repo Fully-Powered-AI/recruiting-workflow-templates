@@ -8,7 +8,7 @@ After a round closes, see which interview questions gave no usable evidence and 
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · Recruiting and hiring · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/interview-process-review-after-a-hiring-round/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=recruiting-interview-process-review-after-a-hiring-round&from=gh-interview-process-review-after-a-hiri)*
@@ -41,7 +41,7 @@ One review in a fixed order. It opens with where the files came from and a headl
 
 It goes on to the questions that were not asked, each process issue people raised checked against the feedback where the files allow, the list of notes judged unusable so you can check the judgement yourself, and the proposed revisions. Each revision names the finding behind it and waits for the recruiting lead's decision. If a header in a file does not match, the review stops and asks rather than guessing.
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -60,7 +60,7 @@ The template works from your anonymised feedback export. Remove names and contac
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried on 10 November 2026 on an invented example round in Claude, and that record is published with it. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried on 10 November 2026 on an example round in Claude, and that record is published with it. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on a past round your recruiting lead already knows well, with cases written in advance: a header that does not match, a question asked twice, a competency with no question, a rating with no note. The recruiting lead checks every count against the files, and reads the notes judged unusable, before anyone relies on the review. [Interview plan and scorecard](https://fullypowered.ai/workflows/interview-plan-and-scorecard/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=recruiting-interview-process-review-after-a-hiring-round&from=gh-interview-process-review-after-a-hiri) is the workflow template for the plan before a round, and [Hiring pipeline status report](https://fullypowered.ai/workflows/hiring-pipeline-status-report/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=recruiting-interview-process-review-after-a-hiring-round&from=gh-interview-process-review-after-a-hiri) covers the pipeline itself.
 
@@ -68,13 +68,13 @@ Testing in your environment means running it on a past round your recruiting lea
 - Sources and rights reviewed.
 - Editorially reviewed on 10 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.

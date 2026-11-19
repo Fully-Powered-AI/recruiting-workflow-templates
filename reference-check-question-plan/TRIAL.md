@@ -1,10 +1,10 @@
-# Reference check question plan: tried once on its invented example
+# Reference check question plan: tried once on its example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-10
 
-The inputs are the invented example in `public/example.md` (Company A, Candidate K and five invented referees). No client data was used. This is one run by a model that did not write the template, and it says what happened, shortcomings included. It is not a test for a client.
+The inputs are the example in `public/example.md` (Company A, Candidate K and five illustrative referees). No client data was used. This is one run by a model that did not write the template, and it says what happened, shortcomings included. It is not a test for a client.
 
 ## What I was given
 
@@ -157,7 +157,7 @@ Draft for the Recruiter's approval. No referee has been contacted and nothing ha
 - Both order the open questions operations director, recruiter, people lead. I had been inclined to follow the Roles section (recruiter first), but I had already seen the example's order, so I cannot say what I would have chosen blind. The template says only "grouped by role".
 - The example puts the opening and closing in each call plan; I wrote them once above and said all four calls use them. The template asks for them in each plan.
 - The example's open question 2 suggests asking whether "another manager saw this work"; mine asks for "another referee who saw this". Neither is a fact; both are suggestions.
-- The example's question about a disagreement says the assistants "disagreed about how work should be done or shared". "Or shared" is not in the inputs. The inputs say only that the panel had no example of handling a disagreement within the team. That is a small invented detail, in the published example, in a question.
+- The example's question about a disagreement says the assistants "disagreed about how work should be done or shared". "Or shared" is not in the inputs. The inputs say only that the panel had no example of handling a disagreement within the team. That is a small illustrative detail, in the published example, in a question.
 - I found no fact in my own output that is not in the inputs, apart from the wording of questions, which has to be written.
 
 **Where the instructions were ambiguous, or I had to guess.**
