@@ -3,7 +3,7 @@
 Turn a hiring manager's rough notes into a job description with only real must-haves. Your pay and employer wording go in untouched; people approve it.
 
 > [!TIP]
-> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Job description on our website](https://fullypowered.ai/workflows/job-description/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=recruiting-job-description&from=gh-recruiting-job-description) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Job description on our website](https://fullypowered.ai/workflows/job-description/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=recruiting-job-description&from=gh-recruiting-job-description). Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
 **Quick start**
 

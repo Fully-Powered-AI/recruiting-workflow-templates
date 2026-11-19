@@ -5,7 +5,7 @@ FullyPowered Workflow Templates for recruiting and people teams turn the AI your
 We are FullyPowered AI. We build AI workflows for companies, and these are the templates we start from. We publish them because a good starting point should be open to everyone. Copy one. Change it. Make it yours.
 
 > [!TIP]
-> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** These are templates, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See more examples for recruiting and people teams](https://fullypowered.ai/functions/recruiting-and-hiring/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=recruiting-readme&from=gh-recruiting-readme) · [Have one built for your team](https://fullypowered.ai/pricing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=recruiting-readme&from=gh-recruiting-readme) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** These are templates, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See more examples for recruiting and people teams](https://fullypowered.ai/functions/recruiting-and-hiring/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=recruiting-readme&from=gh-recruiting-readme) · [Have one built for your team](https://fullypowered.ai/pricing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=recruiting-readme&from=gh-recruiting-readme). Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
 **Who this is for**
 
@@ -26,15 +26,23 @@ We are FullyPowered AI. We build AI workflows for companies, and these are the t
 1. **Turn rough hiring notes into a job description.** Open ChatGPT, Claude, Copilot or Gemini. Copy the text below into a new chat and replace the square brackets with your own notes. You need nothing else, and nothing is sent or posted anywhere.
 
    ```text
-   Prepare a draft job description for one role from my notes. Do not post or send anything. A person approves every word.
+   Prepare a draft job description for one role from my notes. Do not post
+   or send anything. A person approves every word.
 
-   Hiring manager's notes, as typed: [paste your rough notes: why the role is needed now, what the person will do, what good looks like at 90 days and at a year, what you think is required]
+   Hiring manager's notes, as typed: [paste your rough notes: why the role
+   is needed now, what the person will do, what good looks like at 90 days
+   and at a year, what you think is required]
 
-   Role facts: [title, team, reports to, location, hours, full-time or part-time]
+   Role facts: [title, team, reports to, location, hours, full-time or
+   part-time]
    Pay range approved by whoever owns pay: [paste it exactly]
    Our approved company wording and how to apply: [paste it exactly]
 
-   Write: why the role exists, the work, what success looks like, a short must-have list (five at most) and the team. Copy pay and company wording exactly. Mark any missing item as a gap; never invent it. Add review notes listing every requirement you moved or left out and why, any phrase you removed, and open questions for me.
+   Write: why the role exists, the work, what success looks like, a short
+   must-have list (five at most) and the team. Copy pay and company wording
+   exactly. Mark any missing item as a gap; never invent it. Add review
+   notes listing every requirement you moved or left out and why, any
+   phrase you removed, and open questions for me.
    ```
 
 2. Read what comes back. It marks what it checked and what is left for you. What comes out: a draft with review notes:
