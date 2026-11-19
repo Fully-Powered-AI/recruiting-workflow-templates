@@ -1,10 +1,17 @@
 # Interview process review after a hiring round
 
-After a hiring round closes, the recruiting lead gets a review of the interview process: questions that gave no usable evidence, competencies nobody covered, inconsistent rubric use, and revisions to approve before the next search. It reviews the process only; no candidate is assessed.
+After a round closes, see which interview questions gave no usable evidence and which competencies went uncovered. The recruiting lead approves changes.
 
-*Workflow template · Recruiting and hiring · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/interview-process-review-after-a-hiring-round/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Interview process review after a hiring round on our website](https://fullypowered.ai/workflows/interview-process-review-after-a-hiring-round/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=recruiting-interview-process-review-after-a-hiring-round&from=gh-interview-process-review-after-a-hiri) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/interview-process-review-after-a-hiring-round/?from=gh-interview-process-review-after-a-hiri)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Recruiting and hiring · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/interview-process-review-after-a-hiring-round/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=recruiting-interview-process-review-after-a-hiring-round&from=gh-interview-process-review-after-a-hiri)*
 
 ## The outcome
 
@@ -38,12 +45,12 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Recruiting and hiring](https://fullypowered.ai/functions/recruiting-and-hiring/), after any round that will be run again for a similar role.
-- [People and HR](https://fullypowered.ai/functions/people-and-hr/), where the same interview process is reused for several hires and nobody has time to look back at it.
-- [Professional services](https://fullypowered.ai/industries/professional-services/), where a small group of partners and senior staff interview for the same few roles year after year.
-- [Software technology](https://fullypowered.ai/industries/software-technology/), where a loop of several interviews can end up asking one question twice and another never.
-- [Hospitality](https://fullypowered.ai/industries/hospitality/), where repeated hiring for supervisor and manager roles makes a better interview plan pay back quickly.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when you hire in rounds and each round should make the next one better.
+- [Recruiting and hiring](https://fullypowered.ai/functions/recruiting-and-hiring/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=recruiting-interview-process-review-after-a-hiring-round&from=gh-interview-process-review-after-a-hiri), after any round that will be run again for a similar role.
+- [People and HR](https://fullypowered.ai/functions/people-and-hr/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=recruiting-interview-process-review-after-a-hiring-round&from=gh-interview-process-review-after-a-hiri), where the same interview process is reused for several hires and nobody has time to look back at it.
+- [Professional services](https://fullypowered.ai/industries/professional-services/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=recruiting-interview-process-review-after-a-hiring-round&from=gh-interview-process-review-after-a-hiri), where a small group of partners and senior staff interview for the same few roles year after year.
+- [Software technology](https://fullypowered.ai/industries/software-technology/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=recruiting-interview-process-review-after-a-hiring-round&from=gh-interview-process-review-after-a-hiri), where a loop of several interviews can end up asking one question twice and another never.
+- [Hospitality](https://fullypowered.ai/industries/hospitality/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=recruiting-interview-process-review-after-a-hiring-round&from=gh-interview-process-review-after-a-hiri), where repeated hiring for supervisor and manager roles makes a better interview plan pay back quickly.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=recruiting-interview-process-review-after-a-hiring-round&from=gh-interview-process-review-after-a-hiri), when you hire in rounds and each round should make the next one better.
 
 ## What has to change for your company
 
@@ -55,7 +62,7 @@ The template works from your anonymised feedback export. Remove names and contac
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried on 10 November 2026 on an invented example round in Claude, and that record is published with it. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on a past round your recruiting lead already knows well, with cases written in advance: a header that does not match, a question asked twice, a competency with no question, a rating with no note. The recruiting lead checks every count against the files, and reads the notes judged unusable, before anyone relies on the review. [Interview plan and scorecard](https://fullypowered.ai/workflows/interview-plan-and-scorecard/) is the workflow template for the plan before a round, and [Hiring pipeline status report](https://fullypowered.ai/workflows/hiring-pipeline-status-report/) covers the pipeline itself.
+Testing in your environment means running it on a past round your recruiting lead already knows well, with cases written in advance: a header that does not match, a question asked twice, a competency with no question, a rating with no note. The recruiting lead checks every count against the files, and reads the notes judged unusable, before anyone relies on the review. [Interview plan and scorecard](https://fullypowered.ai/workflows/interview-plan-and-scorecard/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=recruiting-interview-process-review-after-a-hiring-round&from=gh-interview-process-review-after-a-hiri) is the workflow template for the plan before a round, and [Hiring pipeline status report](https://fullypowered.ai/workflows/hiring-pipeline-status-report/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=recruiting-interview-process-review-after-a-hiring-round&from=gh-interview-process-review-after-a-hiri) covers the pipeline itself.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -87,4 +94,4 @@ Testing in your environment means running it on a past round your recruiting lea
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=recruiting-interview-process-review-after-a-hiring-round&from=gh-interview-process-review-after-a-hiri).

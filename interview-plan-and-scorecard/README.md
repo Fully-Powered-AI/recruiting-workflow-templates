@@ -1,10 +1,17 @@
 # Interview plan and scorecard
 
-Before the first interview, the hiring manager and every interviewer share one plan: the criteria the role needs, the same questions in the same order for every candidate, and a blank scorecard each person fills in alone. It rates no one. People make every decision about a candidate.
+One interview plan for every candidate: criteria from the job description, the same questions in order, a blank scorecard. People decide.
 
-*Workflow template · Recruiting and hiring · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/interview-plan-and-scorecard/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Interview plan and scorecard on our website](https://fullypowered.ai/workflows/interview-plan-and-scorecard/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=recruiting-interview-plan-and-scorecard&from=gh-interview-plan-and-scorecard) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/interview-plan-and-scorecard/?from=gh-interview-plan-and-scorecard)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Recruiting and hiring · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/interview-plan-and-scorecard/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=recruiting-interview-plan-and-scorecard&from=gh-interview-plan-and-scorecard)*
 
 ## The outcome
 
@@ -36,12 +43,12 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Recruiting and hiring](https://fullypowered.ai/functions/recruiting-and-hiring/), where several people interview for one role and each brings their own idea of what good looks like.
-- [Professional services](https://fullypowered.ai/industries/professional-services/), where client-facing roles are judged on how people handle clients and deadlines.
-- [Software technology](https://fullypowered.ai/industries/software-technology/), where interview loops grow long and stages test the same thing twice.
-- [Hospitality](https://fullypowered.ai/industries/hospitality/), where managers hire often and interview between shifts.
-- [Engineering firms](https://fullypowered.ai/industries/engineering-firms/), where senior staff interview alongside project work and need a plan they can pick up in minutes.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when roles open every month and new managers are interviewing for the first time.
+- [Recruiting and hiring](https://fullypowered.ai/functions/recruiting-and-hiring/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=recruiting-interview-plan-and-scorecard&from=gh-interview-plan-and-scorecard), where several people interview for one role and each brings their own idea of what good looks like.
+- [Professional services](https://fullypowered.ai/industries/professional-services/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=recruiting-interview-plan-and-scorecard&from=gh-interview-plan-and-scorecard), where client-facing roles are judged on how people handle clients and deadlines.
+- [Software technology](https://fullypowered.ai/industries/software-technology/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=recruiting-interview-plan-and-scorecard&from=gh-interview-plan-and-scorecard), where interview loops grow long and stages test the same thing twice.
+- [Hospitality](https://fullypowered.ai/industries/hospitality/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=recruiting-interview-plan-and-scorecard&from=gh-interview-plan-and-scorecard), where managers hire often and interview between shifts.
+- [Engineering firms](https://fullypowered.ai/industries/engineering-firms/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=recruiting-interview-plan-and-scorecard&from=gh-interview-plan-and-scorecard), where senior staff interview alongside project work and need a plan they can pick up in minutes.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=recruiting-interview-plan-and-scorecard&from=gh-interview-plan-and-scorecard), when roles open every month and new managers are interviewing for the first time.
 
 ## What has to change for your company
 
@@ -53,7 +60,7 @@ The list of topics never raised is your people lead's, kept current with your ad
 
 FullyPowered AI wrote this workflow template, drawing on one openly licensed method that is credited in its sources. It was editorially reviewed on 9 November 2026. It was tried on its invented example in Claude on 9 November 2026, in three runs; the record of the third is published with it, with what was changed after the earlier two. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on roles you have already filled, where the hiring manager knows what the work needed, plus hard cases written in advance: notes with a question about family, a referred candidate who wants to skip a stage, a pasted CV, a request to rank the finalists. The hiring manager checks every criterion against the description, and the people lead checks that nothing on the topics list survived. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on roles you have already filled, where the hiring manager knows what the work needed, plus hard cases written in advance: notes with a question about family, a referred candidate who wants to skip a stage, a pasted CV, a request to rank the finalists. The hiring manager checks every criterion against the description, and the people lead checks that nothing on the topics list survived. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=recruiting-interview-plan-and-scorecard&from=gh-interview-plan-and-scorecard) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=recruiting-interview-plan-and-scorecard&from=gh-interview-plan-and-scorecard) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -81,9 +88,9 @@ Testing in your environment means running it on roles you have already filled, w
 ## Related workflow templates
 
 - [Job description](../job-description/)
-- [Employee onboarding plan](https://fullypowered.ai/workflows/employee-onboarding-plan/)
-- [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/)
+- [Employee onboarding plan](https://fullypowered.ai/workflows/employee-onboarding-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=recruiting-interview-plan-and-scorecard&from=gh-interview-plan-and-scorecard)
+- [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=recruiting-interview-plan-and-scorecard&from=gh-interview-plan-and-scorecard)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=recruiting-interview-plan-and-scorecard&from=gh-interview-plan-and-scorecard).

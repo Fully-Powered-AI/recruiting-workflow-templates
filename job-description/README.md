@@ -1,10 +1,17 @@
 # Job description
 
-A hiring manager’s rough notes become a job description the right people want to answer: why the role exists, the work itself, and only the must-haves that are real. Your approved pay and employer wording go in untouched, and nothing is posted until the hiring manager and the people lead approve it.
+Turn a hiring manager's rough notes into a job description with only real must-haves. Your pay and employer wording go in untouched; people approve it.
 
-*Workflow template · Recruiting and hiring · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/job-description/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Job description on our website](https://fullypowered.ai/workflows/job-description/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=recruiting-job-description&from=gh-recruiting-job-description) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/job-description/?from=gh-recruiting-job-description)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Recruiting and hiring · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/job-description/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=recruiting-job-description&from=gh-recruiting-job-description)*
 
 ## The outcome
 
@@ -34,13 +41,13 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Recruiting and hiring](https://fullypowered.ai/functions/recruiting-and-hiring/), where a role opens faster than anyone can write it up well.
-- [People and HR](https://fullypowered.ai/functions/people-and-hr/), which owns the employer wording and reads every description before it goes out.
-- [Professional services](https://fullypowered.ai/industries/professional-services/), where the work is judgment and a list of duties undersells it.
-- [Software technology](https://fullypowered.ai/industries/software-technology/), where requirement lists grow long and tool names crowd out ability.
-- [Manufacturing](https://fullypowered.ai/industries/manufacturing/), where a supervisor writes the posting between shifts.
-- [Hospitality](https://fullypowered.ai/industries/hospitality/), where managers hire often and the same posting has been copied for years.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when roles open every month and many of them are new to the company.
+- [Recruiting and hiring](https://fullypowered.ai/functions/recruiting-and-hiring/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=recruiting-job-description&from=gh-recruiting-job-description), where a role opens faster than anyone can write it up well.
+- [People and HR](https://fullypowered.ai/functions/people-and-hr/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=recruiting-job-description&from=gh-recruiting-job-description), which owns the employer wording and reads every description before it goes out.
+- [Professional services](https://fullypowered.ai/industries/professional-services/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=recruiting-job-description&from=gh-recruiting-job-description), where the work is judgment and a list of duties undersells it.
+- [Software technology](https://fullypowered.ai/industries/software-technology/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=recruiting-job-description&from=gh-recruiting-job-description), where requirement lists grow long and tool names crowd out ability.
+- [Manufacturing](https://fullypowered.ai/industries/manufacturing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=recruiting-job-description&from=gh-recruiting-job-description), where a supervisor writes the posting between shifts.
+- [Hospitality](https://fullypowered.ai/industries/hospitality/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=recruiting-job-description&from=gh-recruiting-job-description), where managers hire often and the same posting has been copied for years.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=recruiting-job-description&from=gh-recruiting-job-description), when roles open every month and many of them are new to the company.
 
 ## What has to change for your company
 
@@ -52,7 +59,7 @@ What the law asks of a posting differs from place to place, and that question st
 
 FullyPowered AI wrote this workflow template, drawing on two openly licensed methods that are credited in its sources. It was editorially reviewed on 9 November 2026. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on roles you have already filled, where the hiring manager knows what the work turned out to be, plus hard cases written in advance: notes with twelve must-haves, no pay range, a phrase about age, a request to suggest a salary. The hiring manager checks every line of the work against the real role, and the people lead checks that the employer wording arrived untouched. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on roles you have already filled, where the hiring manager knows what the work turned out to be, plus hard cases written in advance: notes with twelve must-haves, no pay range, a phrase about age, a request to suggest a salary. The hiring manager checks every line of the work against the real role, and the people lead checks that the employer wording arrived untouched. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=recruiting-job-description&from=gh-recruiting-job-description) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=recruiting-job-description&from=gh-recruiting-job-description) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -79,9 +86,9 @@ Testing in your environment means running it on roles you have already filled, w
 
 ## Related workflow templates
 
-- [Employee onboarding plan](https://fullypowered.ai/workflows/employee-onboarding-plan/)
-- [Manager feedback preparation](https://fullypowered.ai/workflows/manager-feedback-preparation/)
+- [Employee onboarding plan](https://fullypowered.ai/workflows/employee-onboarding-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=recruiting-job-description&from=gh-recruiting-job-description)
+- [Manager feedback preparation](https://fullypowered.ai/workflows/manager-feedback-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=recruiting-job-description&from=gh-recruiting-job-description)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=recruiting-job-description&from=gh-recruiting-job-description).

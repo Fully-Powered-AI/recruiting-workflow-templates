@@ -1,10 +1,17 @@
 # Hiring pipeline status report
 
-Each week your people lead or founder sees every open role on one page: applications at each stage, days open against the target, roles running late, pass-through between stages, which sources lead to interviews, and every blocker with its owner. It counts; it never assesses a candidate.
+See every open role on one page each week: stages, days open against target, late roles and blockers with owners. It counts; people decide.
 
-*Workflow template · Recruiting and hiring · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/hiring-pipeline-status-report/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Hiring pipeline status report on our website](https://fullypowered.ai/workflows/hiring-pipeline-status-report/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=recruiting-hiring-pipeline-status-report&from=gh-hiring-pipeline-status-report) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/hiring-pipeline-status-report/?from=gh-hiring-pipeline-status-report)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Recruiting and hiring · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/hiring-pipeline-status-report/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=recruiting-hiring-pipeline-status-report&from=gh-hiring-pipeline-status-report)*
 
 ## The outcome
 
@@ -40,15 +47,15 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Recruiting and hiring](https://fullypowered.ai/functions/recruiting-and-hiring/), where several roles are open at once and each hiring manager sees only their own.
-- [People and HR](https://fullypowered.ai/functions/people-and-hr/), where the people lead answers for hiring across the company without a recruiting team.
-- [Analytics and reporting](https://fullypowered.ai/functions/analytics-and-reporting/), where the same export should give the same figures every week.
-- [Software technology](https://fullypowered.ai/industries/software-technology/), where engineering roles stay open for months and interview panels are hard to book.
-- [Professional services](https://fullypowered.ai/industries/professional-services/), where client work competes with interviewing for the same senior people.
-- [Hospitality](https://fullypowered.ai/industries/hospitality/), where many roles open at once and applications move fast.
-- [Manufacturing](https://fullypowered.ai/industries/manufacturing/), where shift and site roles draw on several job boards and agencies.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when hiring outgrows one person's memory of who is where.
-- [Startups & new ventures](https://fullypowered.ai/situations/startups-and-new-ventures/), when the founder is still the recruiter and needs the whole picture once a week.
+- [Recruiting and hiring](https://fullypowered.ai/functions/recruiting-and-hiring/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=recruiting-hiring-pipeline-status-report&from=gh-hiring-pipeline-status-report), where several roles are open at once and each hiring manager sees only their own.
+- [People and HR](https://fullypowered.ai/functions/people-and-hr/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=recruiting-hiring-pipeline-status-report&from=gh-hiring-pipeline-status-report), where the people lead answers for hiring across the company without a recruiting team.
+- [Analytics and reporting](https://fullypowered.ai/functions/analytics-and-reporting/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=recruiting-hiring-pipeline-status-report&from=gh-hiring-pipeline-status-report), where the same export should give the same figures every week.
+- [Software technology](https://fullypowered.ai/industries/software-technology/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=recruiting-hiring-pipeline-status-report&from=gh-hiring-pipeline-status-report), where engineering roles stay open for months and interview panels are hard to book.
+- [Professional services](https://fullypowered.ai/industries/professional-services/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=recruiting-hiring-pipeline-status-report&from=gh-hiring-pipeline-status-report), where client work competes with interviewing for the same senior people.
+- [Hospitality](https://fullypowered.ai/industries/hospitality/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=recruiting-hiring-pipeline-status-report&from=gh-hiring-pipeline-status-report), where many roles open at once and applications move fast.
+- [Manufacturing](https://fullypowered.ai/industries/manufacturing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=recruiting-hiring-pipeline-status-report&from=gh-hiring-pipeline-status-report), where shift and site roles draw on several job boards and agencies.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=recruiting-hiring-pipeline-status-report&from=gh-hiring-pipeline-status-report), when hiring outgrows one person's memory of who is where.
+- [Startups & new ventures](https://fullypowered.ai/situations/startups-and-new-ventures/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=recruiting-hiring-pipeline-status-report&from=gh-hiring-pipeline-status-report), when the founder is still the recruiter and needs the whole picture once a week.
 
 ## What has to change for your company
 
@@ -60,7 +67,7 @@ Decide who reads the report, who owns blockers when nobody has been named, and w
 
 FullyPowered AI wrote this workflow template, drawing on one openly licensed package that is credited in its sources. It was editorially reviewed on 10 November 2026. It was tried once on its invented example in Claude on 10 November 2026; the record is published with it, and lists the small clarifications made afterward that have not been run again. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on past weeks whose figures your people lead already knows, plus hard cases written in advance: a header that does not match, an application whose role is not on the list, a role on hold, a blocker with no owner, a request to say which candidate looks strongest. The people lead checks every count against the export before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on past weeks whose figures your people lead already knows, plus hard cases written in advance: a header that does not match, an application whose role is not on the list, a role on hold, a blocker with no owner, a request to say which candidate looks strongest. The people lead checks every count against the export before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=recruiting-hiring-pipeline-status-report&from=gh-hiring-pipeline-status-report) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=recruiting-hiring-pipeline-status-report&from=gh-hiring-pipeline-status-report) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -89,8 +96,8 @@ Testing in your environment means running it on past weeks whose figures your pe
 
 - [Interview plan and scorecard](../interview-plan-and-scorecard/)
 - [Job description](../job-description/)
-- [Employee onboarding plan](https://fullypowered.ai/workflows/employee-onboarding-plan/)
+- [Employee onboarding plan](https://fullypowered.ai/workflows/employee-onboarding-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=recruiting-hiring-pipeline-status-report&from=gh-hiring-pipeline-status-report)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=recruiting-hiring-pipeline-status-report&from=gh-hiring-pipeline-status-report).

@@ -1,10 +1,17 @@
 # Work sample exercise brief
 
-For one approved role, the hiring manager gets a practical exercise: a bounded task from the role's real work, instructions for the candidate with a time limit and adjustments, and the evidence the panel will look for. The panel judges the work; nothing is rated here.
+For one approved role, get a bounded practical exercise, candidate instructions and the evidence the panel looks for. The panel judges the work.
 
-*Workflow template · Recruiting and hiring · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/work-sample-exercise-brief/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Work sample exercise brief on our website](https://fullypowered.ai/workflows/work-sample-exercise-brief/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=recruiting-work-sample-exercise-brief&from=gh-recruiting-work-sample-exercise-brief) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/work-sample-exercise-brief/?from=gh-recruiting-work-sample-exercise-brief)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Recruiting and hiring · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/work-sample-exercise-brief/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=recruiting-work-sample-exercise-brief&from=gh-recruiting-work-sample-exercise-brief)*
 
 ## The outcome
 
@@ -36,12 +43,12 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Recruiting and hiring](https://fullypowered.ai/functions/recruiting-and-hiring/), where a practical task can show what an interview cannot, if it is kept small and fair.
-- [Professional services](https://fullypowered.ai/industries/professional-services/), where coordination, writing and client handling are easier to see in a short task than to hear described.
-- [Software technology](https://fullypowered.ai/industries/software-technology/), where a bounded task replaces long take-home projects.
-- [Marketing and advertising](https://fullypowered.ai/industries/marketing-and-advertising/), where planning and client messages make natural exercises.
-- [Engineering firms](https://fullypowered.ai/industries/engineering-firms/), where a short exercise from the real work needs to stay clear of client files.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when new managers are setting exercises for the first time.
+- [Recruiting and hiring](https://fullypowered.ai/functions/recruiting-and-hiring/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=recruiting-work-sample-exercise-brief&from=gh-recruiting-work-sample-exercise-brief), where a practical task can show what an interview cannot, if it is kept small and fair.
+- [Professional services](https://fullypowered.ai/industries/professional-services/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=recruiting-work-sample-exercise-brief&from=gh-recruiting-work-sample-exercise-brief), where coordination, writing and client handling are easier to see in a short task than to hear described.
+- [Software technology](https://fullypowered.ai/industries/software-technology/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=recruiting-work-sample-exercise-brief&from=gh-recruiting-work-sample-exercise-brief), where a bounded task replaces long take-home projects.
+- [Marketing and advertising](https://fullypowered.ai/industries/marketing-and-advertising/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=recruiting-work-sample-exercise-brief&from=gh-recruiting-work-sample-exercise-brief), where planning and client messages make natural exercises.
+- [Engineering firms](https://fullypowered.ai/industries/engineering-firms/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=recruiting-work-sample-exercise-brief&from=gh-recruiting-work-sample-exercise-brief), where a short exercise from the real work needs to stay clear of client files.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=recruiting-work-sample-exercise-brief&from=gh-recruiting-work-sample-exercise-brief), when new managers are setting exercises for the first time.
 
 ## What has to change for your company
 
@@ -53,7 +60,7 @@ What the company owes a candidate who asks for an adjustment is a question for y
 
 FullyPowered AI wrote this workflow template in its own words, from its own published map of the work. It was editorially reviewed on 10 November 2026. It was tried once on its invented example in Claude on 10 November 2026, by a model that did not write the first version and that then edited the template; the record is in the trial page, and the run was partly exposed to the example's output. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on roles you have already filled, where the hiring manager knows what the work needed, plus hard cases written in advance: a request to use a live client's project, an exercise longer than the limit, a task list with the wrong headers, a request to rank the submissions. The hiring manager checks that every piece of evidence can be pointed to in the work, and the people lead checks the arrangements and the wording to candidates. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on roles you have already filled, where the hiring manager knows what the work needed, plus hard cases written in advance: a request to use a live client's project, an exercise longer than the limit, a task list with the wrong headers, a request to rank the submissions. The hiring manager checks that every piece of evidence can be pointed to in the work, and the people lead checks the arrangements and the wording to candidates. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=recruiting-work-sample-exercise-brief&from=gh-recruiting-work-sample-exercise-brief) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=recruiting-work-sample-exercise-brief&from=gh-recruiting-work-sample-exercise-brief) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -85,4 +92,4 @@ Testing in your environment means running it on roles you have already filled, w
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=recruiting-work-sample-exercise-brief&from=gh-recruiting-work-sample-exercise-brief).

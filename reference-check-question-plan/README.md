@@ -1,10 +1,17 @@
 # Reference check question plan
 
-After the interviews, the recruiter gets short reference calls aimed only at what the panel still could not establish, put to the referees the candidate named and agreed to, with a note sheet for each call that keeps the referee's own words. It gives no view on the candidate.
+After the interviews, get reference calls aimed at what the panel could not establish, with note sheets keeping the referee's words. A person decides.
 
-*Workflow template · Recruiting and hiring · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/reference-check-question-plan/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Reference check question plan on our website](https://fullypowered.ai/workflows/reference-check-question-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=recruiting-reference-check-question-plan&from=gh-reference-check-question-plan) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/reference-check-question-plan/?from=gh-reference-check-question-plan)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Recruiting and hiring · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/reference-check-question-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=recruiting-reference-check-question-plan&from=gh-reference-check-question-plan)*
 
 ## The outcome
 
@@ -36,12 +43,12 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Recruiting and hiring](https://fullypowered.ai/functions/recruiting-and-hiring/), at the last step before an offer, when references should test something rather than repeat the interviews.
-- [Professional services](https://fullypowered.ai/industries/professional-services/), where a candidate's former clients are often the best witnesses to their work.
-- [Software technology](https://fullypowered.ai/industries/software-technology/), where a senior hire's claims about what they led need someone who worked beside them.
-- [Engineering firms](https://fullypowered.ai/industries/engineering-firms/), where project roles depend on who actually kept the schedule and the suppliers in line.
-- [Hospitality](https://fullypowered.ai/industries/hospitality/), where managers hire often and need references done quickly and the same way each time.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when hiring managers take references for the first time and a consistent plan protects the candidate and the company.
+- [Recruiting and hiring](https://fullypowered.ai/functions/recruiting-and-hiring/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=recruiting-reference-check-question-plan&from=gh-reference-check-question-plan), at the last step before an offer, when references should test something rather than repeat the interviews.
+- [Professional services](https://fullypowered.ai/industries/professional-services/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=recruiting-reference-check-question-plan&from=gh-reference-check-question-plan), where a candidate's former clients are often the best witnesses to their work.
+- [Software technology](https://fullypowered.ai/industries/software-technology/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=recruiting-reference-check-question-plan&from=gh-reference-check-question-plan), where a senior hire's claims about what they led need someone who worked beside them.
+- [Engineering firms](https://fullypowered.ai/industries/engineering-firms/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=recruiting-reference-check-question-plan&from=gh-reference-check-question-plan), where project roles depend on who actually kept the schedule and the suppliers in line.
+- [Hospitality](https://fullypowered.ai/industries/hospitality/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=recruiting-reference-check-question-plan&from=gh-reference-check-question-plan), where managers hire often and need references done quickly and the same way each time.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=recruiting-reference-check-question-plan&from=gh-reference-check-question-plan), when hiring managers take references for the first time and a consistent plan protects the candidate and the company.
 
 ## What has to change for your company
 
@@ -53,7 +60,7 @@ Name who evaluates the note sheets and where they are kept. It runs in ChatGPT, 
 
 FullyPowered AI wrote this workflow template from its own published map of recruiting work. It was editorially reviewed on 10 November 2026. It was tried on its invented example in Claude on 10 November 2026, in one run, which was not fully blind (the model saw part of the example's output before writing, and the record says so); the record of the run is published with it. Small edits made afterward have not been run again. It has not yet been tested in a client environment, or as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on a past reference stage your recruiter remembers well, plus hard cases written in advance: a question about sick leave, a request to call someone the candidate did not name, a referee the candidate asked you not to call yet, a request for a yes or no after the calls. The recruiter checks every question against the criteria, and the people lead checks that nothing on the topics list survived. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on a past reference stage your recruiter remembers well, plus hard cases written in advance: a question about sick leave, a request to call someone the candidate did not name, a referee the candidate asked you not to call yet, a request for a yes or no after the calls. The recruiter checks every question against the criteria, and the people lead checks that nothing on the topics list survived. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=recruiting-reference-check-question-plan&from=gh-reference-check-question-plan) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=recruiting-reference-check-question-plan&from=gh-reference-check-question-plan) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -86,4 +93,4 @@ Testing in your environment means running it on a past reference stage your recr
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=recruiting-reference-check-question-plan&from=gh-reference-check-question-plan).

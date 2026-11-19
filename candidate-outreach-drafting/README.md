@@ -1,10 +1,17 @@
 # Candidate outreach drafting
 
-For each person a recruiter or founder has already chosen to approach about an approved role: a first message and two follow-ups, each personal line traced to a public work source the recruiter supplied, do-not-contact names and opt-outs honoured, and a reply log. The recruiter sends every message.
+Draft a first message and two follow-ups for each person you chose to approach, with do-not-contact names honoured and a reply log. The recruiter sends.
 
-*Workflow template · Recruiting and hiring · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/candidate-outreach-drafting/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Candidate outreach drafting on our website](https://fullypowered.ai/workflows/candidate-outreach-drafting/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=recruiting-candidate-outreach-drafting&from=gh-candidate-outreach-drafting) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/candidate-outreach-drafting/?from=gh-candidate-outreach-drafting)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Recruiting and hiring · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/candidate-outreach-drafting/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=recruiting-candidate-outreach-drafting&from=gh-candidate-outreach-drafting)*
 
 ## The outcome
 
@@ -34,12 +41,12 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Recruiting and hiring](https://fullypowered.ai/functions/recruiting-and-hiring/), where the first message to someone not looking for a job decides whether there is a second conversation.
-- [Software technology](https://fullypowered.ai/industries/software-technology/), where engineers and designers publish talks, articles and code, so a true work detail is usually there to be found.
-- [Professional services](https://fullypowered.ai/industries/professional-services/), where specialists are known by their published work and their professional bodies, and a careless approach is remembered.
-- [Engineering firms](https://fullypowered.ai/industries/engineering-firms/), where experienced engineers are often reached through their conference papers and project work rather than a posting.
-- [Startups & new ventures](https://fullypowered.ai/situations/startups-and-new-ventures/), where the founder writes to every early hire personally and needs the follow-ups to happen on time.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when several roles are open at once and the replies have to be tracked so nobody is chased after saying no.
+- [Recruiting and hiring](https://fullypowered.ai/functions/recruiting-and-hiring/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=recruiting-candidate-outreach-drafting&from=gh-candidate-outreach-drafting), where the first message to someone not looking for a job decides whether there is a second conversation.
+- [Software technology](https://fullypowered.ai/industries/software-technology/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=recruiting-candidate-outreach-drafting&from=gh-candidate-outreach-drafting), where engineers and designers publish talks, articles and code, so a true work detail is usually there to be found.
+- [Professional services](https://fullypowered.ai/industries/professional-services/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=recruiting-candidate-outreach-drafting&from=gh-candidate-outreach-drafting), where specialists are known by their published work and their professional bodies, and a careless approach is remembered.
+- [Engineering firms](https://fullypowered.ai/industries/engineering-firms/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=recruiting-candidate-outreach-drafting&from=gh-candidate-outreach-drafting), where experienced engineers are often reached through their conference papers and project work rather than a posting.
+- [Startups & new ventures](https://fullypowered.ai/situations/startups-and-new-ventures/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=recruiting-candidate-outreach-drafting&from=gh-candidate-outreach-drafting), where the founder writes to every early hire personally and needs the follow-ups to happen on time.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=recruiting-candidate-outreach-drafting&from=gh-candidate-outreach-drafting), when several roles are open at once and the replies have to be tracked so nobody is chased after saying no.
 
 ## What has to change for your company
 
@@ -51,7 +58,7 @@ It runs in ChatGPT, Claude, Copilot or Gemini from the files you supply, with no
 
 FullyPowered AI wrote this workflow template, drawing on one openly licensed package credited in its sources. It was editorially reviewed on 10 November 2026. It was tried on its invented example on 10 November 2026 in two runs; the record of the second is published with it. It has not yet been tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on a past round of outreach you remember well, plus hard cases written in advance: a name on the do-not-contact list under a different address, a detail taken from a personal account, a reply that arrives after the first message, a request to sort the list. The recruiter checks every message against the inputs before anything is sent. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on a past round of outreach you remember well, plus hard cases written in advance: a name on the do-not-contact list under a different address, a detail taken from a personal account, a reply that arrives after the first message, a request to sort the list. The recruiter checks every message against the inputs before anything is sent. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=recruiting-candidate-outreach-drafting&from=gh-candidate-outreach-drafting) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=recruiting-candidate-outreach-drafting&from=gh-candidate-outreach-drafting) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -84,4 +91,4 @@ Testing in your environment means running it on a past round of outreach you rem
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=recruiting-candidate-outreach-drafting&from=gh-candidate-outreach-drafting).
